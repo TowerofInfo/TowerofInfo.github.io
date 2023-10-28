@@ -13,7 +13,7 @@ hide:
 
 ### **SR** Simulacrum
 
-::cards:: cols=5{.no-zoom}
+::cards:: cols=5 
 
 [
  {
@@ -47,7 +47,7 @@ hide:
 
 ## **Polimorfia**
 
-::cards:: cols=5{.no-zoom}
+::cards:: cols=5
 
 [
  {
