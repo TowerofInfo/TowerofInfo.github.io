@@ -9,7 +9,7 @@ hide:
 
 ### **SSR** Simulacrum
 
-[cards cols=5(https://raw.githubusercontent.com/TowerofInfo/TowerofInfo.github.io/main/docs/cards_ssr.json)]{.no-zoom}
+[cards cols=5(https://raw.githubusercontent.com/TowerofInfo/TowerofInfo.github.io/main/docs/cards_ssr.json)]
 
 ### **SR** Simulacrum
 
