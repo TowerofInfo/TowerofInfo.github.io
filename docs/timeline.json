@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Ver. 3.3 Danza de Acero y Hielo",
+        "content": "* Nuevo mapa de Dominio 9: Pantanovilla <br> * Historia Principal: Pantanovilla <br> * Nueva Simulacrum: Ling Han",
+        "icon": ":material-new-box:",
+        "sub_title": "24 de Octubre 2023"
+    },
+    {
+        "title": "Ver. 3.2",
+        "content": "Lorem ipsum dolor sit amet.",
+        "icon": ":material-new-box:",
+        "sub_title": "2022-Q3"
+    },
+    {
+        "title": "Ver. 3.1",
+        "content": "Lorem ipsum dolor sit amet.",
+        "icon": ":material-new-box:",
+        "sub_title": "2022-Q3"
+    },
+    {
+        "title": "Ver. 3.0",
+        "content": "Lorem ipsum dolor sit amet.",
+        "icon": ":material-new-box:",
+        "sub_title": "2022-Q3"
+    },
+    {
+        "title": "Ver. 2.5",
+        "content": "Lorem ipsum dolor sit amet.",
+        "icon": ":material-new-box:",
+        "sub_title": "2022-Q3"
+    },
+    {
+        "title": "Ver. 2.4",
+        "content": "Lorem ipsum dolor sit amet.",
+        "icon": ":material-new-box:",
+        "sub_title": "2022-Q3"
+    },
+    {
+        "title": "Ver. 2.3",
+        "content": "Lorem ipsum dolor sit amet.",
+        "icon": ":material-new-box:",
+        "sub_title": "2022-Q3"
+    },
+    {
+        "title": "Ver. 2.2",
+        "content": "Lorem ipsum dolor sit amet.",
+        "icon": ":material-new-box:",
+        "sub_title": "2022-Q3"
+    },
+    {
+        "title": "Ver. 2.1",
+        "content": "Lorem ipsum dolor sit amet.",
+        "icon": ":material-new-box:",
+        "sub_title": "2022-Q3"
+    },
+    {
+        "title": "Ver 2.0",
+        "content": "Lorem ipsum dolor sit amet.",
+        "icon": ":material-new-box:",
+        "sub_title": "2022-Q3"
+    },
+    {
+        "title": "Ver. 1.5",
+        "content": "Lorem ipsum dolor sit amet.",
+        "icon": ":material-new-box:",
+        "sub_title": "2022-Q3"
+    },
+    {
+        "title": "Ver. 1.0",
+        "content": "* Lanzamiento de la version 1.0 global con el banner de Némesis",
+        "icon": ":material-rocket-launch:",
+        "sub_title": "10 de Agosto 2022"
+    }
+]
