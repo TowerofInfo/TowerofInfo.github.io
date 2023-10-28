@@ -9,11 +9,11 @@ hide:
 
 ### **SSR** Simulacrum
 
-[cards cols=5(cards_ssr.json)]
+[cards cols=5(https://raw.githubusercontent.com/TowerofInfo/TowerofInfo.github.io/main/docs/cards_ssr.json)]{.no-zoom}
 
 ### **SR** Simulacrum
 
-::cards:: cols=5
+::cards:: cols=5{.no-zoom}
 
 [
  {
@@ -47,7 +47,7 @@ hide:
 
 ## **Polimorfia**
 
-::cards:: cols=5
+::cards:: cols=5{.no-zoom}
 
 [
  {
