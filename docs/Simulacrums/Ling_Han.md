@@ -10,7 +10,7 @@ hide:
 
     === "Prototipo"
 
-        ![Ling Han](/images/simulacrums/pj/Simulacrum_Ling_Han_Prototype.webp){width="450"}
+        ![Fei Se](/images/simulacrums/pj/Simulacrum_Fei_Se_Prototype.webp){width="450"}
 
         | <!-- -->     | Información Personal                         |
         | :---------: | :----------------------------------: |
@@ -20,7 +20,7 @@ hide:
 
     === "Despertar"
       
-        ![Ling Han 3 estrellas](/images/simulacrums/pj/Simulacrum_Ling_Han_Awaken.webp){width="450"}
+        ![Fei Se 3 estrellas](/images/simulacrums/pj/Simulacrum_Fei_Se_Awaken.webp){width="450"}
         
         | <!-- -->     | Información Personal                         |
         | :---------: | :----------------------------------: |
@@ -28,17 +28,26 @@ hide:
         | **Estatura**       | 175 cm |
         | **Cumpleaños**    | 23 de Agosto |
         
-# **Ling Han**
+    :red_circle: Banner Promocional
+
+# **Lin Hang**
 
 ## **Información**
 
 
-**Fei Se** es una Simulacrum **SSR** jugable en Tower of Fantasy. Está asociada al arma utilizable [**Floración Interminable**](#arma). 
+**Fei Se** es una Simulacrum **SSR** jugable en Tower of Fantasy. Está asociada al arma utilizable [**Floración Interminable**](#arma).(1)
+{ .annotate }
+
+1.  <figure markdown>
+      ![Floración Interminable](/images/weapons/Endless_Bloom.webp){ width="300", align=right}
+    </figure>
 
 ??? Info "Lore"
 
     Aunque Fei Se es conocida por ser una bailarina inigualable,
     en realidad es la lider del Palacio Fantasma y la comandante de los Guardias Sombrios. Como agentes encubiertos, los Guardianes Sombrios se mezclan en las sombras del bullicioso ambiente del Dominio 9, haciendo tratos tras bambalinas, pasando mensajes, llevando a cabo estudios secretos y mucho más. La mayoría de los integrantes del Palacio Fantasma son huéranos. Sin complicados pedigríes políticos, se rigen por un principio de la "supervivencia del más apto". Fei Se, que es mayor y se unió al Palacio Fantasma antes que Lan, la ayudó y la guio mientras ascendía en el escalafón. Sobrevivieron a la cruel competencia, y Lan sigue sintiéndose muy agradecida. Aunue nunca lo muestran, comparten una confianza más prounda de lo que nadie sospecharía. Después de que Lan se convirtiera en Zhuque, Fei Se continuó en su puesto de líder del Palacio Fantasma. Cuando se abrió la Puerta Celestial, Lan sabía que explorarla sería increíblemente peligroso, así que cedió temporalmente las funciones de Zhuque a Fei Se antes de partir. Al regreso de Lan, Fei Se volvió a las sombras. Sin embargo, sigue utilizando su identidad de bailarina para entrar en todos los lugares de reunión más detacados del Dominio 9.
+
+!!! quote ""
 
 ## **Arma**
 
@@ -76,7 +85,9 @@ hide:
     | 5 :material-star:        | Por **cada Phantasia de Fei Se** o **Pétalo de Loto** en el **Espejismo**, aumenta el daño de Corazón Resplandeciente un **12%** adicional. Rduce el consumo de resistencia de **Loto Apsará** un **75%**. |
     | 6 :material-star:        | Aumenta el multiplicador base del daño de **Espiritormento** a **270%** de tu ATQ; duplica la destrucción y, al lograr un impacto, tienes un **15%** de probabilidad de inflingir un retraso del **65%** durante **2** seg (ineficaz contra jefes en partidas en equipo y no está disponible en la Liga Ápex). |
 
-## Matriz
+!!! quote ""
+
+## **Matriz**
 
 ???+ example "Efecto de matriz"
 
@@ -91,6 +102,8 @@ hide:
 
     Al equipar al menos 1 arma de fuego, aumenta todo el daño elemental un **14%** / **17%** / **20%** / **23%**. Tras activar Fantasía de Fei Se, aumenta el daño final un **9%** durante **25** segundos. Este efecto de conjunto funciona en la ranura de mano libre. Solo surtirá efecto el set con la clasificación de estrellas más alta.
 
+!!! quote ""
+
 ## **Equipos Recomendados**
 
 ### Meta
@@ -101,7 +114,7 @@ hide:
  {
       "title": "Floración Interminable",
       "image": "/images/weapons/Endless_Bloom.webp",
-      "url": ""
+      "url": "/Simulacrums/Fei_Se?=#arma"
     },
     {
       "title": "Brazalete Lunaestrella",
@@ -141,19 +154,65 @@ hide:
 
 ::/cards::
 
+!!! quote ""
+
 ## **Consciente**
 
-
+### Rasgos
 
 !!! example ""
 
-    === "1200"
+    === ":heart: 1200"
 
         Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
 
-    === "4000"
+    === ":heart: 4000"
       
         Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+
+### Recompensas
+
+!!! info ""
+
+    === ":heart: 200"
+
+        ![Fei Se](/images/simulacrums/avatars/Avatar_Fei_Se.webp){width="60", align=left} <br> Avatar: Fei Se
+
+    === ":heart: 600"
+      
+        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+
+    === ":heart: 2000"
+
+        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
+
+    === ":heart: 3000"
+      
+        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+
+    === ":heart: 5000"
+
+        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
+
+    === ":heart: 6000"
+      
+        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+
+### Aumentos de estadisticas permanentes
+
+!!! success ""
+
+    === ":heart: 4500"
+
+        Aumento de PS + 7600. Requiere 20 Dispositivo de Mejora: Dominio 9.
+
+    === ":heart: 5500"
+      
+        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+
+    === ":heart: 7000"
+
+        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
 
 ### Regalos Favoritos
 

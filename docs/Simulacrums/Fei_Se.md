@@ -28,7 +28,7 @@ hide:
         | **Estatura**       | 175 cm |
         | **Cumpleaños**    | 23 de Agosto |
         
-    Banner Promocional :red_circle:
+    :red_circle: Banner Promocional
 
 # **Fei Se**
 
