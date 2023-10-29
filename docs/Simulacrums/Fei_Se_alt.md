@@ -8,40 +8,40 @@ hide:
 ![Fei Se](/images/covers/Cover_Fei_Se_Light.png#only-light)
 
 !!! quote inline end ""
+        
+    === "Prototipo"
 
-    !!! quote ""
-        === "Prototipo"
+        ![Fei Se](/images/simulacrums/pj/Simulacrum_Fei_Se_Prototype.webp){width="450"}
 
-            ![Fei Se](/images/simulacrums/pj/Simulacrum_Fei_Se_Prototype.webp){width="450"}
-
-        === "Despertar"
+    === "Despertar"
       
-            ![Fei Se 3 estrellas](/images/simulacrums/pj/Simulacrum_Fei_Se_Awaken.webp){width="450"}
+        ![Fei Se 3 estrellas](/images/simulacrums/pj/Simulacrum_Fei_Se_Awaken.webp){width="450"}
 
-    !!! quote ""
-
-        === ":heart: 1200"
-
+    ===! ":heart: 1200"
+        !!! quote ""
             Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
 
-        === ":heart: 4000"
-
+    === ":heart: 4000"
+        !!! quote ""
             Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
-    !!! quote ""
-        ![Nan Yin](/images/gifts/Domain9/Icon_Gift_Agarwood_Fan.webp){ .no-zoom width="60" }
-        ![Nan Yin](/images/gifts/Domain9/Icon_Gift_Agarwood_Fan.webp){ .no-zoom width="60" }
-        ![Nan Yin](/images/gifts/Domain9/Icon_Gift_Agarwood_Fan.webp){ .no-zoom width="60" }
+    
+    <div style="display: block; margin: auto">
+        ![Nan Yin](/images/gifts/Domain9/Icon_Gift_Agarwood_Fan.webp){ .no-zoom width="70" }
+        ![Nan Yin](/images/gifts/Domain9/Icon_Gift_Legend_of_the_Sword_God.webp){ .no-zoom width="70" }
+        ![Nan Yin](/images/gifts/Domain9/Icon_Gift_Heavenly_Palm.webp){ .no-zoom width="70" }
+    </div>
 
-    !!! info ""
+    !!! quote ""
+
     ![Matriz Fei Se](/images/matrix/Fei_Se.webp){width="300"}
 
     === "Set de 2"
-
-        Después de usar cualquier habilidad o descarga de arma de fuego, aumenta todos los ataques un **14%** / **16%** / **18%** / **20%** durante **30** segundos. Este efecto de set funciona en la ranura de la mano libre. Solo surtirá efecto el conjunto con la clasificación de estrellas más alta.
+        !!! quote ""
+            Después de usar cualquier habilidad o descarga de arma de fuego, aumenta todos los ataques un **14%** / **16%** / **18%** / **20%** durante **30** segundos. Este efecto de set funciona en la ranura de la mano libre. Solo surtirá efecto el conjunto con la clasificación de estrellas más alta.
 
     === "Set de 4"
-
-        Al equipar al menos 1 arma de fuego, aumenta todo el daño elemental un **14%** / **17%** / **20%** / **23%**. Tras activar Fantasía de Fei Se, aumenta el daño final un **9%** durante **25** segundos. Este efecto de conjunto funciona en la ranura de mano libre. Solo surtirá efecto el set con la clasificación de estrellas más alta.    
+        !!! quote ""
+            Al equipar al menos 1 arma de fuego, aumenta todo el daño elemental un **14%** / **17%** / **20%** / **23%**. Tras activar Fantasía de Fei Se, aumenta el daño final un **9%** durante **25** segundos. Este efecto de conjunto funciona en la ranura de mano libre. Solo surtirá efecto el set con la clasificación de estrellas más alta.    
 
 # **Fei Se**
 
@@ -96,22 +96,17 @@ hide:
 
         uwu
 
-=== "Descarga"
+===+ "Descarga"
     !!! example ""
+        ![Matriz Fei Se](/images/weapons/skills/Fei_Se/discharge.webp){width="100" align=left}
+        ### **Fondo de Jade Inigualable**
+        Cuando la **carga de arma está completa** o se activa **Phantasia**, al cambiar a esta arma, **te disipa todas las debilitaciones** e inflinges daño igual a **1.090%** del ATQ más **57**. Durante este periodo, ganas inmunidad al daño por **1.5** seg (no disponible en la Liga Ápex).
 
-        uwu
+
 === ":octicons-gear-16: Especial"
     !!! example ""
 
         uwu
-
-
-
-
-
-
-
-!!! quote ""
 
 ## **Lore**
 
@@ -119,8 +114,6 @@ hide:
 
     Aunque Fei Se es conocida por ser una bailarina inigualable,
     en realidad es la lider del Palacio Fantasma y la comandante de los Guardias Sombrios. Como agentes encubiertos, los Guardianes Sombrios se mezclan en las sombras del bullicioso ambiente del Dominio 9, haciendo tratos tras bambalinas, pasando mensajes, llevando a cabo estudios secretos y mucho más. La mayoría de los integrantes del Palacio Fantasma son huéranos. Sin complicados pedigríes políticos, se rigen por un principio de la "supervivencia del más apto". Fei Se, que es mayor y se unió al Palacio Fantasma antes que Lan, la ayudó y la guio mientras ascendía en el escalafón. Sobrevivieron a la cruel competencia, y Lan sigue sintiéndose muy agradecida. Aunue nunca lo muestran, comparten una confianza más prounda de lo que nadie sospecharía. Después de que Lan se convirtiera en Zhuque, Fei Se continuó en su puesto de líder del Palacio Fantasma. Cuando se abrió la Puerta Celestial, Lan sabía que explorarla sería increíblemente peligroso, así que cedió temporalmente las funciones de Zhuque a Fei Se antes de partir. Al regreso de Lan, Fei Se volvió a las sombras. Sin embargo, sigue utilizando su identidad de bailarina para entrar en todos los lugares de reunión más detacados del Dominio 9.
-
-!!! quote ""
 
 ## **Equipos Recomendados**
 
@@ -171,3 +164,7 @@ hide:
 ]
 
 ::/cards::
+
+## **PV**
+
+<iframe style="display: block; margin: auto" width="1080" height="608" src="https://www.youtube.com/embed/AhEuvMD_LYQ?si=h4kpa2Wnp06hC534" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
