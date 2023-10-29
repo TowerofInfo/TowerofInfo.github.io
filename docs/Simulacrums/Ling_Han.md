@@ -10,42 +10,36 @@ hide:
 
     === "Prototipo"
 
-        ![Fei Se](/images/simulacrums/pj/Simulacrum_Fei_Se_Prototype.webp){width="450"}
+        ![Ling Han](/images/simulacrums/pj/Simulacrum_Ling_Han_Prototype.webp){width="450"}
 
         | <!-- -->     | Información Personal                         |
         | :---------: | :----------------------------------: |
         | **Género**      | Femenino |
-        | **Estatura**       | 175 cm |
-        | **Cumpleaños**    | 23 de Agosto |
+        | **Estatura**       | 181 cm |
+        | **Cumpleaños**    | 7 de Junio |
 
     === "Despertar"
       
-        ![Fei Se 3 estrellas](/images/simulacrums/pj/Simulacrum_Fei_Se_Awaken.webp){width="450"}
+        ![Ling Han 3 estrellas](/images/simulacrums/pj/Simulacrum_Ling_Han_Awaken.webp){width="450"}
         
         | <!-- -->     | Información Personal                         |
         | :---------: | :----------------------------------: |
         | **Género**      | Femenino |
-        | **Estatura**       | 175 cm |
-        | **Cumpleaños**    | 23 de Agosto |
+        | **Estatura**       | 181 cm |
+        | **Cumpleaños**    | 7 de Junio |
         
     :red_circle: Banner Promocional
 
-# **Lin Hang**
+# **Ling Han**
 
 ## **Información**
 
 
-**Fei Se** es una Simulacrum **SSR** jugable en Tower of Fantasy. Está asociada al arma utilizable [**Floración Interminable**](#arma).(1)
-{ .annotate }
-
-1.  <figure markdown>
-      ![Floración Interminable](/images/weapons/Endless_Bloom.webp){ width="300", align=right}
-    </figure>
+**Ling Han** es una Simulacrum **SSR** jugable en Tower of Fantasy. Está asociada al arma utilizable [**Tigre de Alabastro**](#arma-imagen).
 
 ??? Info "Lore"
 
-    Aunque Fei Se es conocida por ser una bailarina inigualable,
-    en realidad es la lider del Palacio Fantasma y la comandante de los Guardias Sombrios. Como agentes encubiertos, los Guardianes Sombrios se mezclan en las sombras del bullicioso ambiente del Dominio 9, haciendo tratos tras bambalinas, pasando mensajes, llevando a cabo estudios secretos y mucho más. La mayoría de los integrantes del Palacio Fantasma son huéranos. Sin complicados pedigríes políticos, se rigen por un principio de la "supervivencia del más apto". Fei Se, que es mayor y se unió al Palacio Fantasma antes que Lan, la ayudó y la guio mientras ascendía en el escalafón. Sobrevivieron a la cruel competencia, y Lan sigue sintiéndose muy agradecida. Aunue nunca lo muestran, comparten una confianza más prounda de lo que nadie sospecharía. Después de que Lan se convirtiera en Zhuque, Fei Se continuó en su puesto de líder del Palacio Fantasma. Cuando se abrió la Puerta Celestial, Lan sabía que explorarla sería increíblemente peligroso, así que cedió temporalmente las funciones de Zhuque a Fei Se antes de partir. Al regreso de Lan, Fei Se volvió a las sombras. Sin embargo, sigue utilizando su identidad de bailarina para entrar en todos los lugares de reunión más detacados del Dominio 9.
+    Ling Han, también conocida como lady Baihu, nombrada por Zhen Gong, es la encargada de supervisar Pantanovilla. Es la jefa del Pabellón Longjian, una institución militar crucial. Dado que su principal deber es alertar contra las amenazas de la Oscuridad de rango alto, está prácticamente al mando de los Guardias del Dominio en todo el Dominio 9. Al tener un carácter introvertido, Ling Han mantiene un perfil bajo y no se interesa por los asuntos mundanos. Es muy reservada y mantiene la distancia con los demás, sobre todo con los extraños. Aunque sea de pocas palabras, sus acciones lo dicen todo. Es más bien una persona que realiza su misión en silencio y se asegura de que se complete. Posee una gran fuerza y no les muestra piedad a sus enemigos. A pesar de su carácter reservado, valora profundamente a sus amistades, en particular a su predecesora, Nan Yin. Bajo la tutela de Nan Yin, ha tenido un enorme crecimiento, por lo que tiene a Nan Yin en gran estima como mentora y amiga. Sin embargo, cuando Nan Yin sucumbió a la Oscuridad, Ling Han atravesó un torbellino de luchas internas. Ahora, impulsada por una determinación forjada en el dolor, busca tanto la verdad tras la oscura transformación de Nan Yin como la venganza a nombre de quienes cayeron a manos de su ahora corrupta amiga.
 
 !!! quote ""
 
@@ -55,35 +49,35 @@ hide:
 
 ??? example "Efectos"
 
-    ![Floración Interminable](/images/weapons/Endless_Bloom.webp){ width="300", align=right}
+    ![Tigre de Alabastro](/images/weapons/Alabaster_Tiger.webp){ #arma-imagen width="300", align=right}
 
-    #### Fuego
+    #### Caparazón de Hielo
 
-    Cuando el arma esté completameente cargada, el siguiente ataque encenderá al objetivo por **8** seg, lo que inlinje daño igual a **58.00%** del ATQ cada segundo. Mientras está encendido, los efectos de curación en el objetivo son 50% menos efectivos.
+    Cuando el arma está completamente cargada, el siguiente ataque **congelará con fuerza** a los objetivos durante **2** segundos y los dejará aflijidos de congelación durante **6** segundos. Romper el caparazón de hielo inflinge daño a **144%** del ATQ. Mientras está afligido de congelación, reduce la tasa de carga del arma del objetivo un **50%**.
 
-    #### Resonancia de Fuego
+    #### Resonancia de Hielo
 
-    Aumenta el ATQ de fuego un **15%** y la resistencia al Fuego un **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.
+    Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.
 
-    #### Explosión Ardiente: Corte Veloz
+    #### Frío Extremo: Descarga
 
-    Cuando **Floración Interminable** está equipada, al impactar con cualquier habilidad de descarga de arma, inflinges daño inicial contra los objettivos cercanos igual a la suma de: **37.5%** de tu ATQ de fuego, **0.5%** de tus PS Máx., **18.75%** de todas tus resistencias y **68.75%** de tu crítico. Mientras estés en combatey cada **0.5** seg, el daño del siguiente Corte Veloz aumentará **1** vez adicional, hasta un máximo de **30** veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. <br>
-    Explosión Ardiente: El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si tienes **1** arma de escarcha/eléctrica/física de cualquier tipo equipada, aumentas el daño de Explosión Ardinte **1.3** veces. Además el daño de Explosión Ardinte no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales. 
+    Después de usar **Arte de Espada: Hielo Oscuro**, cadasegundo infliges daño igual a la suma de: **70%** de tu ATQ de escarcha, **10%** de tus PS Máx., **36%** de todos tus tipos de resistencias, y **135%** de tu crítico. Ocurre durante **30** seg. El daño de múltiples Descargas no se acumula, y el daño de Frío Extremo contará como daño de habilidad. Si tienes **1** arma eléctrica/de fuego/física de cualquier tipo equipada, el daño de Frío Extremo se multiplica por **1.3**. Además, el daño de Frío Extremo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.
+
 
 ### Avances
 
-??? example "Efectos de Avances"
+??? example "Avances de Arma"
 
     #### Efectos
 
     | Estrellas                | Efecto                               |
     | :----------------------: | :----------------------------------: |
-    | 1 :material-star:        | Aumenta el multiplicador base de daño de **Corazón Resplandeciente** a **60%** del ATQ. En estado de combate, sin inflinges múltiples efectos de quemadura, el multiplicador base del daño por quemadura de **Corazón Resplandeciente** aumenta al del efecto multiplicador más alto |
-    | 2 :material-star:        | Aumenta el crecimiento de ATQ base del arma actual un **16%**. |
-    | 3 :material-star:        | Aumenta el número máximo de **Phantasia de Fei Se** a **2**. Después de que **Remolino** logra un impacto, también crea **1** de **Phantasia de Fei Se**. |
-    | 4 :material-star:        | Aumenta el crecimiento de ATQ base del arma actual un **32%**. |
-    | 5 :material-star:        | Por **cada Phantasia de Fei Se** o **Pétalo de Loto** en el **Espejismo**, aumenta el daño de Corazón Resplandeciente un **12%** adicional. Rduce el consumo de resistencia de **Loto Apsará** un **75%**. |
-    | 6 :material-star:        | Aumenta el multiplicador base del daño de **Espiritormento** a **270%** de tu ATQ; duplica la destrucción y, al lograr un impacto, tienes un **15%** de probabilidad de inflingir un retraso del **65%** durante **2** seg (ineficaz contra jefes en partidas en equipo y no está disponible en la Liga Ápex). |
+    | 1 :material-star:        | . |
+    | 2 :material-star:        | . |
+    | 3 :material-star:        | . |
+    | 4 :material-star:        | . |
+    | 5 :material-star:        | . |
+    | 6 :material-star:        | . |
 
 !!! quote ""
 
@@ -91,16 +85,15 @@ hide:
 
 ???+ example "Efecto de matriz"
 
-    ![Matriz Fei Se](/images/matrix/Icon_Matrix_Fei_Se.webp){width="300", align="left"}
+    ![Matriz Ling Han](/images/matrix/Ling_Han.webp){width="300", align="left"}
 
     ### Efectos
 
     #### **Set de 2 piezas**
-    Después de usar cualquier habilidad o descarga de arma de fuego, aumenta todos los ataques un **14%** / **16%** / **18%** / **20%** durante **30** segundos. Este efecto de set funciona en la ranura de la mano libre. Solo surtirá efecto el conjunto con la clasificación de estrellas más alta.
+    Aumenta todo el daño elemental un **7%**/**8%**/**9%**/**10%**. Al disparar Cuchillas de Hielo, infliges daño adicional igual a **416%** del ATQ a los objetivos cercanos. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta.
 
     #### **Set de 4 piezas**
-
-    Al equipar al menos 1 arma de fuego, aumenta todo el daño elemental un **14%** / **17%** / **20%** / **23%**. Tras activar Fantasía de Fei Se, aumenta el daño final un **9%** durante **25** segundos. Este efecto de conjunto funciona en la ranura de mano libre. Solo surtirá efecto el set con la clasificación de estrellas más alta.
+    Después de usar cualquier habilidad de descarga de arma de escarcha, aumenta tu daño final un **12%**/**15%**/**19%**/**23%** por **30** seg. Cuando **Tigre de Alabastro** está equipado, aumenta tu ataque conjunto un **12%**. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta.
 
 !!! quote ""
 
@@ -112,47 +105,49 @@ hide:
 
 [
  {
-      "title": "Floración Interminable",
-      "image": "/images/weapons/Endless_Bloom.webp",
-      "url": "/Simulacrums/Fei_Se?=#arma"
+      "title": "Tigre de Alabastro",
+      "image": "/images/weapons/Alabaster_Tiger.webp",
+      "url": "/Simulacrums/Ling_Han?=#arma-imagen"
     },
     {
-      "title": "Brazalete Lunaestrella",
-      "image": "/images/weapons/Moonstar_Bracelet.webp",
+      "title": "Unidad",
+      "image": "/images/weapons/Unity.webp",
       "url": ""
     }, 
     {
-      "title": "Pincel Meteórico",
-      "image": "/images/weapons/Pine_Comet.webp",
+      "title": "Brazalete Lunaestrella",
+      "image": "/images/weapons/Moonstar_Bracelet.webp",
       "url": ""
     }
 ]
 
 ::/cards::
 
-### Triple Fuego
+### Triple Hielo
 
 ::cards:: cols=3
 
 [
  {
-      "title": "Floración Interminable",
-      "image": "/images/weapons/Endless_Bloom.webp",
+      "title": "Tigre de Alabastro",
+      "image": "/images/weapons/Alabaster_Tiger.webp",
       "url": ""
     },
     {
-      "title": "Pincel Meteórico",
-      "image": "/images/weapons/Pine_Comet.webp",
+      "title": "Unidad",
+      "image": "/images/weapons/Unity.webp",
       "url": ""
     },
     {
-      "title": "Ave Bermellón",
-      "image": "/images/weapons/Vermilion_Bird.webp",
+      "title": "Preciosa",
+      "image": "/images/weapons/Precious_One.webp",
       "url": ""
     }
 ]
 
 ::/cards::
+
+Para ver más opciones revisa [esta guía](https://twitter.com/MrSnakeVT/status/1716621309256536075/photo/1) hecha por [MrSnakeVT](https://linktr.ee/MrsnakeVT). :heart_hands_tone3:
 
 !!! quote ""
 
@@ -164,11 +159,11 @@ hide:
 
     === ":heart: 1200"
 
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
+        Aumenta el daño final un **13%**. Cuando **Tigre de Alabastro** está equipado, por **cada** arma de escarcha equipada, aumenta el daño de escarcha un **1%**.
 
     === ":heart: 4000"
       
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+        Aumenta el daño final un **18%**. Cuando **Tigre de Alabastro** está equipado, obtienes inmunidad al daño durante **4** seg al usar **Arte de Espada: Llamado Gélido** (no está disponible en la Liga Ápex). Por **cada** arma de escarcha equipada, aumenta el daño de escarcha un **2.5%**. Cuando **3** armas de escarcha está equipadas, obtienes **350** de carga de arma después de usar cualquier habilidad de arma de escarcha. Después de usar cualquier hanilidad o descarga de arma de escarcha que no sea **Tigre de Alabastro**, inflinges daño adicional igual a **1456%** del ATQ a los objetivos cercanos.
 
 ### Recompensas
 
@@ -176,27 +171,27 @@ hide:
 
     === ":heart: 200"
 
-        ![Fei Se](/images/simulacrums/avatars/Avatar_Fei_Se.webp){width="60", align=left} <br> Avatar: Fei Se
+        ![Ling Han](/images/simulacrums/avatars/Avatar_Ling_Han.webp){width="60", align=left} <br> Avatar: Ling Han
 
     === ":heart: 600"
       
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+        .
 
     === ":heart: 2000"
 
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
+        .
 
     === ":heart: 3000"
       
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+        .
 
     === ":heart: 5000"
 
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
+        .
 
     === ":heart: 6000"
       
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+        .
 
 ### Aumentos de estadisticas permanentes
 
@@ -204,15 +199,15 @@ hide:
 
     === ":heart: 4500"
 
-        Aumento de PS + 7600. Requiere 20 Dispositivo de Mejora: Dominio 9.
+        Aumento **permanente** de **PS** + 7600. Requiere **20 Dispositivo de Mejora: Dominio 9**.
 
     === ":heart: 5500"
       
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+        Aumento **permanente** de ***Ataque** + 25 y **PS** + 2000. Requiere **40 Dispositivo de Mejora: Dominio 9**.
 
     === ":heart: 7000"
 
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
+        Aumento **permanente** de **Ataque** + 55. Requiere **60 Dispositivo de Mejora: Dominio 9**.
 
 ### Regalos Favoritos
 
@@ -221,15 +216,15 @@ hide:
 [
  {
       "title": "",
-      "image": "/images/gifts/Domain9/Icon_Gift_Agarwood_Fan.webp",
+      "image": "/images/gifts/",
     },
     {
       "title": "",
-      "image": "/images/gifts/Domain9/Icon_Gift_Legend_of_the_Sword_God.webp"
+      "image": "/images/gifts/"
     },
     {
       "title": "",
-      "image": "/images/gifts/Domain9/Icon_Gift_Heavenly_Palm.webp",
+      "image": "/images/gifts/",
     }
 ]
 

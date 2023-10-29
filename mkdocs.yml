@@ -6,12 +6,12 @@ theme:
   logo: /assets/Tower_of_Info.png
   favicon: /assets/Tower_of_Info.png
   features:
-    - navigation.indexes
     - navigation.instant
     - navigation.tabs
     - navigation.path
-    - navigation.top
-    - toc.follow
+    # - navigation.top
+    # - toc.follow
+    - navigation.footer
   palette: 
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -37,6 +37,8 @@ nav:
       - Ling_Han.md
     - Fei Se:
       - Fei_Se.md
+    - Fei Se alt:
+      - Fei_Se_alt.md
   - Eventos: Eventos.md
   - Versiones: Versiones.md
 

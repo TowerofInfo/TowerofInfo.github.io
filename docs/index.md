@@ -3,13 +3,6 @@ hide:
   - navigation
 ---
 
-<figure markdown>
-  <a href="https://twitter.com/ToF_ES_OFICIAL/status/1717728573279334439">
-  ![Evento Carrera de suministros de Halloween](/images/covers/eventos/cover-halloween.png#only-dark){.no-zoom}
-  ![Evento Carrera de suministros de Halloween](/images/covers/eventos/cover-halloween-light.png#only-light){.no-zoom}
-  </a>
-</figure>
-
 ## **Último Personaje añadido**
 
 !!! tip ""
@@ -18,7 +11,7 @@ hide:
 
     <figure markdown>
       <a href="/Simulacrums/Ling_Han">
-      ![Ling Han](/images/simulacrums/pj/Simulacrum_Ling_Han_Prototype.webp){ .no-zoom width="580" }
+      ![Ling Han](/images/simulacrums/pj/Simulacrum_Ling_Han_Prototype.webp){ .no-zoom width="380" }
       <figcaption style="font-size: 28px">Ling Han</figcaption>
       </a>
     </figure>
@@ -43,3 +36,12 @@ hide:
           <figcaption style="font-size: 28px">Yan Miao</figcaption>
           </a>
         </figure>
+
+## Evento Activo
+
+<figure markdown>
+  <a href="https://twitter.com/ToF_ES_OFICIAL/status/1717728573279334439">
+  ![Evento Carrera de suministros de Halloween](/images/covers/eventos/cover-halloween.png#only-dark){.no-zoom}
+  ![Evento Carrera de suministros de Halloween](/images/covers/eventos/cover-halloween-light.png#only-light){.no-zoom}
+  </a>
+</figure>

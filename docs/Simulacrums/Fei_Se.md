@@ -35,12 +35,7 @@ hide:
 ## **Información**
 
 
-**Fei Se** es una Simulacrum **SSR** jugable en Tower of Fantasy. Está asociada al arma utilizable [**Floración Interminable**](#arma).(1)
-{ .annotate }
-
-1.  <figure markdown>
-      ![Floración Interminable](/images/weapons/Endless_Bloom.webp){ width="300", align=right}
-    </figure>
+**Fei Se** es una Simulacrum **SSR** jugable en Tower of Fantasy. Está asociada al arma utilizable [**Floración Interminable**](#arma-imagen).
 
 ??? Info "Lore"
 
@@ -55,7 +50,7 @@ hide:
 
 ??? example "Efectos"
 
-    ![Floración Interminable](/images/weapons/Endless_Bloom.webp){ width="300", align=right}
+    ![Floración Interminable](/images/weapons/Endless_Bloom.webp){ #arma-imagen width="300", align=right}
 
     #### Fuego
 
@@ -72,7 +67,7 @@ hide:
 
 ### Avances
 
-??? example "Efectos de Avances"
+??? example "Avances de Arma"
 
     #### Efectos
 
@@ -91,7 +86,7 @@ hide:
 
 ???+ example "Efecto de matriz"
 
-    ![Matriz Fei Se](/images/matrix/Icon_Matrix_Fei_Se.webp){width="300", align="left"}
+    ![Matriz Fei Se](/images/matrix/Fei_Se.webp){width="300", align="left"}
 
     ### Efectos
 
@@ -176,27 +171,27 @@ hide:
 
     === ":heart: 200"
 
-        ![Fei Se](/images/simulacrums/avatars/Avatar_Fei_Se.webp){width="60", align=left} <br> Avatar: Fei Se
+        ![Fei Se](/images/simulacrums/avatars/Avatar_Fei_Se.webp){width="70", align=left} <br> Avatar: **Fei Se**
 
     === ":heart: 600"
       
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+        Bitácora: Visión de Flores.
 
     === ":heart: 2000"
 
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
+        Bitácora: En el Pasado
 
     === ":heart: 3000"
       
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+        Bitácora: Eventos Recientes.
 
     === ":heart: 5000"
 
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
+        Bitácora: Probando.
 
     === ":heart: 6000"
       
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+        ![Fei Se](/images/simulacrums/avatars/awaken/Fei_Se.png){width="60", align=left} <br> Avatar: **Fei Se: Consciente**
 
 ### Aumentos de estadisticas permanentes
 
@@ -204,15 +199,15 @@ hide:
 
     === ":heart: 4500"
 
-        Aumento de PS + 7600. Requiere 20 Dispositivo de Mejora: Dominio 9.
+        Aumento **permanente** de **PS** + 7600. Requiere **20 Dispositivo de Mejora: Dominio 9**.
 
     === ":heart: 5500"
       
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30** seg.
+        Aumento **permanente** de ***Ataque** + 25 y **PS** + 2000. Requiere **40 Dispositivo de Mejora: Dominio 9**.
 
     === ":heart: 7000"
 
-        Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30** seg.
+        Aumento **permanente** de **Ataque** + 55. Requiere **60 Dispositivo de Mejora: Dominio 9**.
 
 ### Regalos Favoritos
 
