@@ -2,42 +2,40 @@
 hide:
   - navigation
 ---
-
+#
 ## **Último Personaje añadido**
 
 !!! tip ""
 
-
-
     <figure markdown>
       <a href="/Simulacrums/Ling_Han">
-      ![Ling Han](/images/simulacrums/pj/Simulacrum_Ling_Han_Prototype.webp){ .no-zoom width="380" }
-      <figcaption style="font-size: 28px">Ling Han</figcaption>
+      ![Ling Han](/images/simulacrums/current/Ling_Han.png#only-dark)
+      ![Ling Han](/images/simulacrums/current/Ling_Han_Light.png#only-light)
       </a>
     </figure>
 
 ## **Próximos Personajes**
 
 !!! quote ""
-
-    !!! quote inline ""
-      
+    <figure style="display: flex; justify-content: space-around; margin: auto;" markdown>
+    !!! quote ""
         <figure markdown>
-          <a href="/Simulacrums/Ling_Han">
-          ![Nan Yin](/images/simulacrums/pj/Simulacrum_Nan_Yin_Prototype.webp){ .no-zoom width="450" }
-          <figcaption style="font-size: 28px">Nan Yin</figcaption>
+          <a href="/Simulacrums/Nan_Yin">
+          ![Nan Yin](/images/simulacrums/upcoming/Nan_Yin.png#only-dark)
+          ![Nan Yin](/images/simulacrums/upcoming/Nan_Yin_Light.png#only-light)
           </a>
         </figure>
-
-    !!! quote inline ""
+    <figure markdown><p>&nbsp;&nbsp;&nbsp;&nbsp;</p></figure>
+    !!! quote end ""
         <figure markdown>
           <a href="/Simulacrums/Ling_Han">
-          ![Yan Miao](/images/simulacrums/pj/Simulacrum_Yan_Miao_Prototype.webp){ .no-zoom width="450" }
-          <figcaption style="font-size: 28px">Yan Miao</figcaption>
+          ![Nan Yin](/images/simulacrums/upcoming/Yan_Miao.png#only-dark)
+          ![Nan Yin](/images/simulacrums/upcoming/Yan_Miao_Light.png#only-light)
           </a>
         </figure>
+    </figure>
 
-## Evento Activo
+## **Evento Activo**
 
 <figure markdown>
   <a href="https://twitter.com/ToF_ES_OFICIAL/status/1717728573279334439">

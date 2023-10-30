@@ -4,18 +4,18 @@ hide:
   - toc
 ---
 
-![!Nombre](/images/covers/Cover_!Simulacrum.png#only-dark)
-![!Nombre](/images/covers/Cover_!Simulacrum_Light.png#only-light)
+![Huang](/images/covers/Cover_Huang.png#only-dark)
+![Huang](/images/covers/Cover_Huang_Light.png#only-light)
 
 !!! quote inline end ""
         
     === "Prototipo"
 
-        ![!Nombre](/images/simulacrums/pj/Simulacrum_!Simulacrum_Prototype.webp){width="450"}
+        ![Huang](/images/simulacrums/pj/Simulacrum_Huang_Prototype.webp){width="450"}
 
     === "Despertar"
       
-        ![!Nombre 3 estrellas](/images/simulacrums/pj/Simulacrum_!Simulacrum_Awaken.webp){width="450"}
+        ![Huang 3 estrellas](/images/simulacrums/pj/Simulacrum_Huang_Awaken.webp){width="450"}
 
     ===! ":heart: 1200"
         !!! quote ""
@@ -33,7 +33,7 @@ hide:
 
     !!! quote ""
 
-    ![Matriz !Nombre](/images/matrix/!Simulacrum.webp){width="300"}
+    ![Matriz Huang](/images/matrix/Huang.webp){width="300"}
 
     === "Set de 2"
         !!! quote ""
@@ -49,7 +49,7 @@ hide:
 
 ???+ example "Efectos"
 
-    ![!arma](/images/weapons/!armaimagen.webp){ #arma-imagen width="300", align=right}
+    ![Dragón Azur](/images/weapons/Azure_Dragon.webp){ #arma-imagen width="300", align=right}
 
     !Pasivas
 
@@ -87,8 +87,8 @@ hide:
 
 ===+ "Descarga"
     !!! example ""
-        ![Descarga](/images/weapons/skills/!Simulacrum/discharge.webp#only-dark){width="100" align=left}
-        ![Descarga](/images/weapons/skills/!Simulacrum/discharge_light.png#only-light){width="100" align=left}
+        ![Descarga](/images/weapons/skills/Huang/discharge.webp#only-dark){width="100" align=left}
+        ![Descarga](/images/weapons/skills/Huang/discharge_light.png#only-light){width="100" align=left}
         ### !Descarga
 
 === ":octicons-gear-16: Especial"
@@ -110,8 +110,8 @@ hide:
 
 [
  {
-      "title": "!arma",
-      "image": "/images/weapons/!armaimagen.webp",
+      "title": "Dragón Azur",
+      "image": "/images/weapons/Azure_Dragon.webp",
       "url": ""
     },
     {
@@ -134,8 +134,8 @@ hide:
 
 [
  {
-      "title": "!arma",
-      "image": "/images/weapons/!armaimagen.webp",
+      "title": "Dragón Azur",
+      "image": "/images/weapons/Azure_Dragon.webp",
       "url": ""
     },
     {
