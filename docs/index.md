@@ -8,7 +8,7 @@ hide:
 !!! tip ""
 
     <figure markdown>
-      <a href="/Simulacrums/Ling_Han">
+      <a href="/simulacrums/ling-han">
       ![Ling Han](/images/simulacrums/current/Ling_Han.png#only-dark)
       ![Ling Han](/images/simulacrums/current/Ling_Han_Light.png#only-light)
       </a>
@@ -20,7 +20,7 @@ hide:
     <figure style="display: flex; justify-content: space-around; margin: auto;" markdown>
     !!! quote ""
         <figure markdown>
-          <a href="/Simulacrums/Nan_Yin">
+          <a href="/simulacrums/nan-yin">
           ![Nan Yin](/images/simulacrums/upcoming/Nan_Yin.png#only-dark)
           ![Nan Yin](/images/simulacrums/upcoming/Nan_Yin_Light.png#only-light)
           </a>
@@ -28,7 +28,7 @@ hide:
     <figure markdown><p>&nbsp;&nbsp;&nbsp;&nbsp;</p></figure>
     !!! quote end ""
         <figure markdown>
-          <a href="/Simulacrums/Ling_Han">
+          <a href="/simulacrums/yan-miao">
           ![Nan Yin](/images/simulacrums/upcoming/Yan_Miao.png#only-dark)
           ![Nan Yin](/images/simulacrums/upcoming/Yan_Miao_Light.png#only-light)
           </a>
