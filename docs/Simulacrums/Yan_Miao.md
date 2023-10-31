@@ -26,9 +26,8 @@ hide:
             !Rasgo2
     
     <div style="display: block; margin: auto">
-        ![Regalo](/images/gifts/Domain9/Icon_Gift_Agarwood_Fan.webp){ .no-zoom width="70" }
         ![Regalo](/images/gifts/Domain9/Icon_Gift_Legend_of_the_Sword_God.webp){ .no-zoom width="70" }
-        ![Regalo](/images/gifts/Domain9/Icon_Gift_Heavenly_Palm.webp){ .no-zoom width="70" }
+        ![Regalo](/images/gifts/Domain9/Icon_Gift_Baguenaudier.webp){ .no-zoom width="70" }
     </div>
 
     !!! quote ""
