@@ -63,11 +63,12 @@ plugins:
 extra_css:
   - css/css-v1.0.4.css
 
-extra:  
+extra: 
+  generator: false
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/TowerofInfo/TowerofInfo.github.io
     - icon: fontawesome/brands/discord 
       link: https://fosstodon.org/@squidfunk
 
-copyright: Hecho con &#10084; desde MX por gerssh
+copyright: Made with &#10084; by gerssh
