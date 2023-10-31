@@ -19,16 +19,13 @@ hide:
 
     ===! ":heart: 1200"
         !!! quote ""
-            !Rasgo1
-
+            Aumenta el daño final un **13%**. Cuando se equipa con 3 armas eléctricas, aumenta el daño eléctrico un **6%**.
     === ":heart: 4000"
         !!! quote ""
-            !Rasgo2
+            Aumenta el daño final un **18%**. Cuando se equipa con **3** armas eléctricas, aumenta el daño eléctrico un **6%** y la duración de la mejora de la tasa crítica se amplía por 25 seg.
     
     <div style="display: block; margin: auto">
-        ![Regalo](/images/gifts/Domain9/Icon_Gift_Agarwood_Fan.webp){ .no-zoom width="70" }
-        ![Regalo](/images/gifts/Domain9/Icon_Gift_Legend_of_the_Sword_God.webp){ .no-zoom width="70" }
-        ![Regalo](/images/gifts/Domain9/Icon_Gift_Heavenly_Palm.webp){ .no-zoom width="70" }
+        ![Regalo](/images/gifts/Domain9/Icon_Gift_Panda_Doll.webp){ .no-zoom width="70" }
     </div>
 
     !!! quote ""
@@ -152,6 +149,9 @@ hide:
 
 ::/cards::
 
+!!! note "Equipos adicionales"
+    Para ver más opciones revisa [esta guía](https://www.youtube.com/watch?v=hEZ-ja5eoKA) hecha por [MrSnakeVT](https://linktr.ee/MrsnakeVT). :heart_hands_tone3:
+
 ## **PV**
 
-<iframe style="display: block; margin: auto" width="1080" height="608" src="!PVvideo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto" width="1080" height="608" src="https://www.youtube.com/embed/AbJrAf-C9EQ?si=WQ616qmaUOhk11MY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -10,6 +10,7 @@ theme:
     - navigation.tabs
     - navigation.path
     - navigation.top
+    # - navigation.tabs.sticky
     # - toc.follow
     - navigation.footer
   palette: 
@@ -31,12 +32,7 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Simulacrums: 
-    - Simulacrums.md
-    - Ling Han:
-      - Ling_Han.md
-    - Fei Se:
-      - Fei_Se.md
+  - Simulacrums: Simulacrums.md
   - Eventos: Eventos.md
   - Guías: Guías.md
   - Versiones: Versiones.md
@@ -66,3 +62,12 @@ plugins:
 
 extra_css:
   - css/css-v1.0.4.css
+
+extra:  
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/TowerofInfo/TowerofInfo.github.io
+    - icon: fontawesome/brands/discord 
+      link: https://fosstodon.org/@squidfunk
+
+copyright: Hecho con &#10084; desde MX por gerssh

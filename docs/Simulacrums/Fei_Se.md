@@ -7,6 +7,7 @@ hide:
 ![Fei Se](/images/covers/Cover_Fei_Se.png#only-dark)
 ![Fei Se](/images/covers/Cover_Fei_Se_Light.png#only-light)
 
+#
 !!! quote inline end ""
         
     === "Prototipo"
@@ -41,9 +42,7 @@ hide:
 
     === "Set de 4"
         !!! quote ""
-            Al equipar al menos 1 arma de fuego, aumenta todo el daño elemental un **14%** / **17%** / **20%** / **23%**. Tras activar Fantasía de Fei Se, aumenta el daño final un **9%** durante **25** segundos. Este efecto de conjunto funciona en la ranura de mano libre. Solo surtirá efecto el set con la clasificación de estrellas más alta.    
-
-# **Fei Se**
+            Al equipar al menos 1 arma de fuego, aumenta todo el daño elemental un **14%** / **17%** / **20%** / **23%**. Tras activar Fantasía de Fei Se, aumenta el daño final un **9%** durante **25** segundos. Este efecto de conjunto funciona en la ranura de mano libre. Solo surtirá efecto el set con la clasificación de estrellas más alta.
 
 ## Efectos de Arma
 
