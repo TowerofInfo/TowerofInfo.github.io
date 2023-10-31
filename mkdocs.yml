@@ -4,7 +4,7 @@ theme:
   language: es
   name: material
   logo: /assets/Tower_of_Info.png
-  favicon: /assets/Tower_of_Info.png
+  favicon: /assets/favicon.png
   features:
     - navigation.instant
     - navigation.tabs
