@@ -32,10 +32,10 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Simulacrums: simulacrums.md
-  - Eventos: eventos.md
-  - Guías: guías.md
-  - Versiones: versiones.md
+  - Simulacrums: Simulacrums.md
+  - Eventos: Eventos.md
+  - Guías: Guías.md
+  - Versiones: Versiones.md
 
 markdown_extensions:
   - attr_list
