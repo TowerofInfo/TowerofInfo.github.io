@@ -81,9 +81,48 @@ hide:
 ### Habilidades
 
 === "ATQ Normal"
-    !!! example ""
+    ???+ example "**Maniobra**"
+        ![Maniobra](/images/weapons/skills/Fei_Se/normal1.webp#only-dark){width="80" align=left}
+        ![Maniobra](/images/weapons/skills/Fei_Se/normal1.png#only-light){width="80" align=left}
 
-        uwu
+        Mientras estás en el suelo, usa el ataque normal para lanzar 6 ataques seguidos.
+        Primer ataque: Inflige un daño igual al **82%** del ATQ + **466** y hace retroceder al objetivo.
+        Segundo ataque: Inflige un daño equivalente al **122%** del ATQ + **693** y derriba al objetivo.
+        Tercer ataque: Inflige un daño equivalente al **132%** del ATQ + **750** y derriba al objetivo.
+        Cuarto ataque: Inflige un daño igual al **144%** del ATQ + **818** y suspende al objetivo.
+        Quinto ataque: Inflige un daño igual al **146%** del ATQ + **830** y derriba al objetivo.
+        Sexto ataque: Inflige un daño equivalente al **115%** de ATQ + **654** y atrae al objetivo.
+
+    ???+ example "**Nubes en Movimiento**"
+        ![Nubes en Movimiento](/images/weapons/skills/Fei_Se/normal2.webp#only-dark){width="80" align=left}
+        ![Nubes en Movimiento](/images/weapons/skills/Fei_Se/normal2.png#only-light){width="80" align=left}
+
+        Mientras estás en el aire, usa el ataque normal para lanzar 6 ataques consecutivos; esto consume resistencia.
+        Primer ataque: Inflige daño igual al **72%** de ATQ + **409**.
+        Segundo ataque: Inflige un daño equivalente al **98%** del ATQ + **557**.
+        Tercer ataque: Inflige daño igual al **142%** de ATQ + **807**.
+        Cuarto Ataque: Inflige daño igual al **142%** de ATQ + **807**.
+        Quinto ataque: Inflige daño igual al **173%** de ATQ + **983**.
+        Sexto ataque: Inflige un daño igual al **144%** de ATQ + **818**. 
+
+    ???+ example "**Otoño Dorado**"
+        ![Otoño Dorado](/images/weapons/skills/Fei_Se/normal3.webp#only-dark){width="80" align=left}
+        ![Otoño Dorado](/images/weapons/skills/Fei_Se/normal3.png#only-light){width="80" align=left}
+
+        Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal cuando uses del primero al tercer ataque normal para activar Otoño Dorado.
+        Atraes a los objetivos cercanos para inflingirles daño igual aa **259%** de tu ATQ más **1,472** y los suspendes.
+
+    ???+ example "**Colgantes Sonoros**"
+        ![Colgantes Sonoros](/images/weapons/skills/Fei_Se/normal4.webp#only-dark){width="80" align=left}
+        ![Colgantes Sonoros](/images/weapons/skills/Fei_Se/normal4.png#only-light){width="80" align=left}
+
+    ???+ example "**Loto Apsará**"
+        ![Loto Apsará](/images/weapons/skills/Fei_Se/normal5.webp#only-dark){width="80" align=left}
+        ![Loto Apsará](/images/weapons/skills/Fei_Se/normal5.png#only-light){width="80" align=left}
+
+    ???+ example "**Caída de Flores**"
+        ![Caída de Flores](/images/weapons/skills/Fei_Se/normal6.webp#only-dark){width="80" align=left}
+        ![Caída de Flores](/images/weapons/skills/Fei_Se/normal6.png#only-light){width="80" align=left}     
 
 === "Evasion"
     !!! example ""
@@ -95,10 +134,10 @@ hide:
 
         uwu
 
-===+ "Descarga"
-    !!! example ""
-        ![Descarga](/images/weapons/skills/Fei_Se/discharge.webp#only-dark){width="100" align=left}
-        ![Descarga](/images/weapons/skills/Fei_Se/discharge_light.png#only-light){width="100" align=left}
+=== "Descarga"
+    ???+ example "**Fondo de Jade Inigualable**"
+        ![Descarga](/images/weapons/skills/Fei_Se/discharge.webp#only-dark){width="80" align=left}
+        ![Descarga](/images/weapons/skills/Fei_Se/discharge.png#only-light){width="80" align=left}
         ### **Fondo de Jade Inigualable**
         Cuando la **carga de arma está completa** o se activa **Phantasia**, al cambiar a esta arma, **te disipa todas las debilitaciones** e inflinges daño igual a **1.090%** del ATQ más **57**. Durante este periodo, ganas inmunidad al daño por **1.5** seg (no disponible en la Liga Ápex).
 
