@@ -49,7 +49,7 @@ hide:
 
 ???+ example "Efectos"
 
-    ![Pincel Meteórico](/images/weapons/Pine_Comet.webp){ #arma-imagen width="300", align=right}
+    ![Pincel Meteórico](/images/weapons/Pine_Comet.webp){ #arma width="300", align=right}
 
     !Pasivas
 
@@ -100,7 +100,7 @@ hide:
 
 ???+ Info "Lore"
 
-    !Lore
+    Asiste a la elusiva "Zhuque" y es responsable de vigilar la Oscuridad capturada. A pesar de haber recibido evaluaciones positivas de sus superiores, en realidad es una joven insatisfecha con su situación actual y soporta el peso de numerosas preocupaciones e inquietudes.
 
 ## **Equipos Recomendados**
 

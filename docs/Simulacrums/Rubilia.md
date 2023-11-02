@@ -49,7 +49,7 @@ hide:
 
 ???+ example "Efectos"
 
-    ![Arte Perdido](/images/weapons/Lost_Art.webp){ #arma-imagen width="300", align=right}
+    ![Arte Perdido](/images/weapons/Lost_Art.webp){ #arma width="300", align=right}
 
     !Pasivas
 
@@ -100,7 +100,7 @@ hide:
 
 ???+ Info "Lore"
 
-    !Lore
+    La Dra. Rubilia, antigua jefa del Proyecto Oyente, participa de nuevo en los estudios sobre las Entidades del Espacio Gris, esta vez en forma de abisante. Muy poca gente lo sabe debido a su estado especial. El público sigue recordándola como una investigadora excepcional y una científica prometedora.
 
 ## **Equipos Recomendados**
 

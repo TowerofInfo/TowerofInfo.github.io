@@ -40,15 +40,16 @@ hide:
         !!! quote ""
             Después de usar cualquier habilidad o descarga de arma de fuego, aumenta todos los ataques un **14%** / **16%** / **18%** / **20%** durante **30** segundos. Este efecto de set funciona en la ranura de la mano libre. Solo surtirá efecto el conjunto con la clasificación de estrellas más alta.
 
-    === "Set de 4"
+    === "Set de 4" 
         !!! quote ""
-            Al equipar al menos 1 arma de fuego, aumenta todo el daño elemental un **14%** / **17%** / **20%** / **23%**. Tras activar Fantasía de Fei Se, aumenta el daño final un **9%** durante **25** segundos. Este efecto de conjunto funciona en la ranura de mano libre. Solo surtirá efecto el set con la clasificación de estrellas más alta.
+            ###### Set4
+            Al equipar al menos 1 arma de fuego, aumenta todo el daño elemental un **14%** / **17%** / **20%** / **23%**. Tras activar Phantasia de Fei Se, aumenta el daño final un **9%** durante **25** segundos. Este efecto de conjunto funciona en la ranura de mano libre. Solo surtirá efecto el set con la clasificación de estrellas más alta.
 
 ## Efectos de Arma
 
 ???+ example "Efectos"
 
-    ![Floración Interminable](/images/weapons/Endless_Bloom.webp){ #arma-imagen width="300", align=right}
+    ![Floración Interminable](/images/weapons/Endless_Bloom.webp){ #arma width="300", align=right}
 
     ### Fuego
 
@@ -86,51 +87,72 @@ hide:
         ![Maniobra](/images/weapons/skills/Fei_Se/normal1.png#only-light){width="80" align=left}
 
         Mientras estás en el suelo, usa el ataque normal para lanzar 6 ataques seguidos.
-        Primer ataque: Inflige un daño igual al **82%** del ATQ + **466** y hace retroceder al objetivo.
-        Segundo ataque: Inflige un daño equivalente al **122%** del ATQ + **693** y derriba al objetivo.
-        Tercer ataque: Inflige un daño equivalente al **132%** del ATQ + **750** y derriba al objetivo.
-        Cuarto ataque: Inflige un daño igual al **144%** del ATQ + **818** y suspende al objetivo.
-        Quinto ataque: Inflige un daño igual al **146%** del ATQ + **830** y derriba al objetivo.
-        Sexto ataque: Inflige un daño equivalente al **115%** de ATQ + **654** y atrae al objetivo.
+        Primer ataque: Inflige un daño igual al **82%** del ATQ + **4** y hace retroceder al objetivo.
+        Segundo ataque: Inflige un daño equivalente al **122%** del ATQ + **6** y derriba al objetivo.
+        Tercer ataque: Inflige un daño equivalente al **132%** del ATQ + **7** y derriba al objetivo.
+        Cuarto ataque: Inflige un daño igual al **144%** del ATQ + **8** y suspende al objetivo.
+        Quinto ataque: Inflige un daño igual al **146%** del ATQ + **8** y derriba al objetivo.
+        Sexto ataque: Inflige un daño equivalente al **115%** de ATQ + **6** y atrae al objetivo.
 
     ???+ example "**Nubes en Movimiento**"
         ![Nubes en Movimiento](/images/weapons/skills/Fei_Se/normal2.webp#only-dark){width="80" align=left}
         ![Nubes en Movimiento](/images/weapons/skills/Fei_Se/normal2.png#only-light){width="80" align=left}
 
         Mientras estás en el aire, usa el ataque normal para lanzar 6 ataques consecutivos; esto consume resistencia.
-        Primer ataque: Inflige daño igual al **72%** de ATQ + **409**.
-        Segundo ataque: Inflige un daño equivalente al **98%** del ATQ + **557**.
-        Tercer ataque: Inflige daño igual al **142%** de ATQ + **807**.
-        Cuarto Ataque: Inflige daño igual al **142%** de ATQ + **807**.
-        Quinto ataque: Inflige daño igual al **173%** de ATQ + **983**.
-        Sexto ataque: Inflige un daño igual al **144%** de ATQ + **818**. 
+        Primer ataque: Inflige daño igual al **72%** de ATQ + **4**.
+        Segundo ataque: Inflige un daño equivalente al **98%** del ATQ más **5**.
+        Tercer ataque: Inflige daño igual al **142%** de ATQ más **8**.
+        Cuarto Ataque: Inflige daño igual al **142%** de ATQ más **8**.
+        Quinto ataque: Inflige daño igual al **173%** de ATQ más **9**.
+        Sexto ataque: Inflige un daño igual al **144%** de ATQ más **8**. 
 
     ???+ example "**Otoño Dorado**"
         ![Otoño Dorado](/images/weapons/skills/Fei_Se/normal3.webp#only-dark){width="80" align=left}
         ![Otoño Dorado](/images/weapons/skills/Fei_Se/normal3.png#only-light){width="80" align=left}
 
         Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal cuando uses del primero al tercer ataque normal para activar Otoño Dorado.
-        Atraes a los objetivos cercanos para inflingirles daño igual aa **259%** de tu ATQ más **1,472** y los suspendes.
+        Atraes a los objetivos cercanos para inflingirles daño igual aa **259%** de tu ATQ más **14** y los suspendes.
 
     ???+ example "**Colgantes Sonoros**"
         ![Colgantes Sonoros](/images/weapons/skills/Fei_Se/normal4.webp#only-dark){width="80" align=left}
         ![Colgantes Sonoros](/images/weapons/skills/Fei_Se/normal4.png#only-light){width="80" align=left}
 
+        Mientras se usa en el suelo, pulsa y mantén pulsado el ataque normal cuando uses los ataqies normales del cuarto al sexto para activar Colgantes Sonoros.
+        Inflinge daño igual a **158%** del ATQ más **8** y repele a los objetivos
+
     ???+ example "**Loto Apsará**"
         ![Loto Apsará](/images/weapons/skills/Fei_Se/normal5.webp#only-dark){width="80" align=left}
         ![Loto Apsará](/images/weapons/skills/Fei_Se/normal5.png#only-light){width="80" align=left}
 
+        Cuando estés en el suelo o en el aire, pulsa y mantén pulsado el ataque normal para activar Loto Apsará.
+        Avanza continuamente en el aire mientras consumes resistencia. Usa los controles de dirección para ajustar la dirección durante Loto Apsará.
+
     ???+ example "**Caída de Flores**"
         ![Caída de Flores](/images/weapons/skills/Fei_Se/normal6.webp#only-dark){width="80" align=left}
-        ![Caída de Flores](/images/weapons/skills/Fei_Se/normal6.png#only-light){width="80" align=left}     
+        ![Caída de Flores](/images/weapons/skills/Fei_Se/normal6.png#only-light){width="80" align=left}
 
-=== "Evasion"
-    !!! example ""
+        Durantes **Nubes en Movimiento**, pulsa y mantén pulsado el ataque normal para activar Caída de Flores.
+        Desciende desde lo alto. Tras aterrizar, inflinges daño iguala a **74%** del ATQ más **4** a los objetivos cercanos y los lanzas.
 
-        uwu
+=== "Evasión"
+    ???+ example "**Evasión**"
+        ![Evasión](/images/weapons/skills/dodge.webp#only-dark){width="80" align=left}
+        ![Evasión](/images/weapons/skills/dodge.png#only-light){width="80" align=left}
+
+        Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.
+    
+    ???+ example "**Dispersión**"
+        ![Evasión](/images/weapons/skills/Fei_Se/dodge1.webp#only-dark){width="80" align=left}
+        ![Evasión](/images/weapons/skills/Fei_Se/dodge1.png#only-light){width="80" align=left}
+
+        Toca un ataque normal durante la breve ventana de esquiva perfecta (toca un botón de flecha antes de esquivar) para activar Dispersión Floral, que inflige un daño igual al 209% del ATQ más 11 a los objetivos cercanos.
+
+        Durante el Espejismo Ilusorio creado por Remolino, después de que el primer ataque de esquiva con cualquier arma consiga un impacto, activa Injerto de Flores, creando Phantasia de Fei Se y Pétalos de Loto.
+        Phantasia de Fei Se: Al crearse, Phantasia de Fei Se copia el 25% del ATQ máximo del objetivo y lo convierte en el ATQ de fuego base del nómada (no inferior a 3.300 ni superior a 3.450; este ATQ de fuego no se reflejará en las estadísticas del nómada y no estará disponible en la Liga Apex) hasta que Phantasia de Fei Se desaparezca. Esto se calcula independientemente para cada Fei Se's Phantasia. Solo puede haber 1 Phantasia de Fei Se a la vez.
+        Pétalo de loto: En el momento de la creación, el número de Pétalos de loto es igual al número de invocaciones creadas por las armas del nómada que no sean Floración infinita. Tras la creación, el número de pétalos de loto no cambia con el número de invocaciones. Los pétalos de loto se consideran invocaciones.
 
 === "Habilidad"
-    !!! example ""
+    ??? example ""
 
         uwu
 
@@ -138,14 +160,8 @@ hide:
     ???+ example "**Fondo de Jade Inigualable**"
         ![Descarga](/images/weapons/skills/Fei_Se/discharge.webp#only-dark){width="80" align=left}
         ![Descarga](/images/weapons/skills/Fei_Se/discharge.png#only-light){width="80" align=left}
-        ### **Fondo de Jade Inigualable**
+    
         Cuando la **carga de arma está completa** o se activa **Phantasia**, al cambiar a esta arma, **te disipa todas las debilitaciones** e inflinges daño igual a **1.090%** del ATQ más **57**. Durante este periodo, ganas inmunidad al daño por **1.5** seg (no disponible en la Liga Ápex).
-
-
-=== ":octicons-gear-16: Especial"
-    !!! example ""
-
-        uwu
 
 ## **Lore**
 
@@ -158,51 +174,257 @@ hide:
 
 ### Meta
 
-::cards:: cols=3
+!!! quote ""
+    !!! failure inline ""
+        <figure markdown>
+        <a href="#arma">![Image title](/images/weapons/Endless_Bloom.webp){ width="250" }</a>
+        </figure>
 
-[
- {
-      "title": "Floración Interminable",
-      "image": "/images/weapons/Endless_Bloom.webp",
-      "url": ""
-    },
-    {
-      "title": "Brazalete Lunaestrella",
-      "image": "/images/weapons/Moonstar_Bracelet.webp",
-      "url": ""
-    }, 
-    {
-      "title": "Pincel Meteórico",
-      "image": "/images/weapons/Pine_Comet.webp",
-      "url": ""
-    }
-]
+        <font size="3">**Floración Interminable**</font>(1)
+        { .annotate }
 
-::/cards::
+        1. 
+            ### **Set de Matrices Recomendadas**
+
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Fei_Se.webp){ width="200" }|![Image title](/images/matrix/Fei_Se.webp){ width="200" }|
+                    |![Image title](/images/matrix/Fei_Se.webp){ width="200" }|![Image title](/images/matrix/Fei_Se.webp){ width="200" }|
+
+            === "Delfin"
+            
+                !!! abstract "0-2 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Fei_Se.webp){ width="200" }|![Image title](/images/matrix/Fei_Se.webp){ width="200" }|
+                    |![Image title](/images/matrix/Fei_Se.webp){ width="200" }|![Image title](/images/matrix/Fei_Se.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Ruby x4 o Scylla/Haboela x4 en caso de contar con al menos 2 :material-star:
+
+            === "F2P"
+            
+                !!! abstract "0-3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Ruby x4 o Haboela x4
+   
+    !!! tip inline ""
+
+        <figure markdown>
+        <a href="#arma">![Image title](/images/weapons/Moonstar_Bracelet.webp){ width="250" }</a>
+        </figure>
+
+        <font size="3">**Brazalete Lunaestrella**</font>(1)
+        { .annotate }
+
+        1. 
+            ### **Set de Matrices Recomendadas**
+
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Fiona.webp){ width="200" }|![Image title](/images/matrix/Fiona.webp){ width="200" }|
+                    |![Image title](/images/matrix/Fiona.webp){ width="200" }|![Image title](/images/matrix/Fiona.webp){ width="200" }|
+
+            === "Delfin"
+            
+                !!! abstract "0-2 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Fiona.webp){ width="200" }|![Image title](/images/matrix/Fiona.webp){ width="200" }|
+                    |![Image title](/images/matrix/Fiona.webp){ width="200" }|![Image title](/images/matrix/Fiona.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Ruby x4 o Scylla/Haboela x4
+
+            === "F2P"
+            
+                !!! abstract "0-3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Ruby.webp){ width="200" }|![Image title](/images/matrix/Ruby.webp){ width="200" }|
+                    |![Image title](/images/matrix/Ruby.webp){ width="200" }|![Image title](/images/matrix/Ruby.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Scylla x4 o Haboela x4
+
+    !!! failure inline ""
+
+        <figure markdown>
+        <a href="#arma">![Image title](/images/weapons/Pine_Comet.webp){ width="250" }</a>
+        </figure>
+
+        <font size="3">**Pincel Meteórico**</font>(1)
+        { .annotate }
+
+        1. 
+            ### **Set de Matrices Recomendadas**
+
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Liu_Huo.webp){ width="200" }|![Image title](/images/matrix/Liu_Huo.webp){ width="200" }|
+                    |![Image title](/images/matrix/Liu_Huo.webp){ width="200" }|![Image title](/images/matrix/Liu_Huo.webp){ width="200" }|
+
+            === "Delfin"
+            
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Samir.webp){ width="200" }|![Image title](/images/matrix/Samir.webp){ width="200" }|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        En caso de utilizar el set de 4 de Scylla en otra arma, sustituir por Shiro x2 o Crow x2
+
+            === "F2P"
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Samir.webp){ width="200" }|![Image title](/images/matrix/Samir.webp){ width="200" }|
+                    |![Image title](/images/matrix/Shiro.webp){ width="200" }|![Image title](/images/matrix/Shiro.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        En caso de contar con 60% de critico o más, se puede sustituir el set de Shiro por Crow
 
 ### Triple Fuego
 
-::cards:: cols=3
+!!! quote ""
+    !!! failure inline ""
+        <figure markdown>
+        <a href="#arma">![Image title](/images/weapons/Endless_Bloom.webp){ width="250" }</a>
+        </figure>
 
-[
- {
-      "title": "Floración Interminable",
-      "image": "/images/weapons/Endless_Bloom.webp",
-      "url": ""
-    },
-    {
-      "title": "Pincel Meteórico",
-      "image": "/images/weapons/Pine_Comet.webp",
-      "url": ""
-    },
-    {
-      "title": "Ave Bermellón",
-      "image": "/images/weapons/Vermilion_Bird.webp",
-      "url": ""
-    }
-]
+        <font size="3">**Floración Interminable**</font>(1)
+        { .annotate }
 
-::/cards::
+        1. 
+            ### **Set de Matrices Recomendadas**
+
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Fei_Se.webp){ width="200" }|![Image title](/images/matrix/Fei_Se.webp){ width="200" }|
+                    |![Image title](/images/matrix/Fei_Se.webp){ width="200" }|![Image title](/images/matrix/Fei_Se.webp){ width="200" }|
+
+            === "Delfin"
+            
+                !!! abstract "0-2 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Fei_Se.webp){ width="200" }|![Image title](/images/matrix/Fei_Se.webp){ width="200" }|
+                    |![Image title](/images/matrix/Fei_Se.webp){ width="200" }|![Image title](/images/matrix/Fei_Se.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Ruby x4 o Scylla/Haboela x4 en caso de contar con al menos 2 :material-star:
+
+            === "F2P"
+            
+                !!! abstract "0-3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Ruby.webp){ width="200" }|![Image title](/images/matrix/Ruby.webp){ width="200" }|
+                    |![Image title](/images/matrix/Ruby.webp){ width="200" }|![Image title](/images/matrix/Ruby.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Scylla x4 o Haboela x4
+   
+    !!! failure inline ""
+
+        <figure markdown>
+        <a href="/Simulacrums/Liu_Huo/#arma">![Image title](/images/weapons/Pine_Comet.webp){ width="250" }</a>
+        </figure>
+
+        <font size="3">**Pincel Meteórico**</font>(1)
+        { .annotate }
+
+        2. 
+            ### **Set de Matrices Recomendadas**
+
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Liu_Huo.webp){ width="200" }|![Image title](/images/matrix/Liu_Huo.webp){ width="200" }|
+                    |![Image title](/images/matrix/Liu_Huo.webp){ width="200" }|![Image title](/images/matrix/Liu_Huo.webp){ width="200" }|
+
+            === "Delfin"
+            
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Samir.webp){ width="200" }|![Image title](/images/matrix/Samir.webp){ width="200" }|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        En caso de utilizar el set de 4 de Scylla en otra arma, sustituir por Shiro x2 o Crow x2
+
+            === "F2P"
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Samir.webp){ width="200" }|![Image title](/images/matrix/Samir.webp){ width="200" }|
+                    |![Image title](/images/matrix/Shiro.webp){ width="200" }|![Image title](/images/matrix/Shiro.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        En caso de contar con 60% de critico o más, se puede sustituir el set de Shiro por Crow
+
+    !!! failure inline ""
+
+        <figure markdown>
+        <a href="/Simulacrums/Lan/#arma">![Image title](/images/weapons/Vermilion_Bird.webp){ width="250" }</a>
+        </figure>
+
+        <font size="3">**Ave Bermellón**</font>(1)
+        { .annotate }
+
+        3. 
+            ### **Set de Matrices Recomendadas**
+
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Lan.webp){ width="200" }|![Image title](/images/matrix/Lan.webp){ width="200" }|
+                    |![Image title](/images/matrix/Lan.webp){ width="200" }|![Image title](/images/matrix/Lan.webp){ width="200" }|
+
+            === "Delfin"
+            
+                !!! abstract "0-2 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Lan.webp){ width="200" }|![Image title](/images/matrix/Lan.webp){ width="200" }|
+                    |![Image title](/images/matrix/Lan.webp){ width="200" }|![Image title](/images/matrix/Lan.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Ruby x4 o Scylla/Haboela x4
+
+            === "F2P"
+            
+                !!! abstract "0-3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Ruby x4 o Haboela x4
 
 ## **PV**
 

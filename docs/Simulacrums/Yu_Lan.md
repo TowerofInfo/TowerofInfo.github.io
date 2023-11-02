@@ -100,7 +100,7 @@ hide:
 
 ???+ Info "Lore"
 
-    !Lore
+    Una estrella de las artes marciales del Dominio 9, admirada por todos quienes la han desafiado. La maestre Yu reconoció su habilidad y la nombró Guardia del Reloj Solar, responsable por defender el Reloj Solar Infinito. Con su extraordinaria pasión por las artes marciales, se ha convertido en una combatiente capaz que siempre logra la victoria en sus batallas. Ella sigue la filosofía de asestar ataques rápidos y precisos con solo siete pasos.
 
 ## **Equipos Recomendados**
 

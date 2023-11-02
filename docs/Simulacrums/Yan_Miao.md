@@ -48,7 +48,7 @@ hide:
 
 ???+ example "Efectos"
 
-    ![Ley y Orden](/images/weapons/Law_and_Order.webp){ #arma-imagen width="300", align=right}
+    ![Ley y Orden](/images/weapons/Law_and_Order.webp){ #arma width="300", align=right}
 
     !Pasivas
 

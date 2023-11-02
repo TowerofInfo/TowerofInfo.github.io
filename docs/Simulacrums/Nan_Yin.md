@@ -51,7 +51,7 @@ hide:
 
 ???+ example "Efectos"
 
-    ![Purple Bamboo](/images/weapons/Purple_Bamboo.webp){ #arma-imagen width="300", align=right}
+    ![Purple Bamboo](/images/weapons/Purple_Bamboo.webp){ #arma width="300", align=right}
 
     ### **Alterado**
     Cuando el arma esté completamente cargada, el siguiente ataque marcará al objetivo, provocando una explosión al cabo de **5** segundos. Además, inflige un **25%** de todo el daño recibido por el objetivo mientras exista la marca, hasta un total del **560%** de tu ATQ. Sólo se puede añadir 1 marca a un objetivo a la vez.

@@ -39,7 +39,7 @@ hide:
 
 <figure markdown>
   <a href="https://twitter.com/ToF_ES_OFICIAL/status/1717728573279334439">
-  ![Evento Carrera de suministros de Halloween](/images/covers/eventos/cover-halloween.png#only-dark){.no-zoom}
-  ![Evento Carrera de suministros de Halloween](/images/covers/eventos/cover-halloween-light.png#only-light){.no-zoom}
+  ![Evento Carrera de suministros de Halloween](https://pbs.twimg.com/media/F9z1OPsXoAA6blQ?format=jpg&name=4096x4096#only-dark){.no-zoom}
+  ![Evento Carrera de suministros de Halloween](https://pbs.twimg.com/media/F9z1OPsXoAA6blQ?format=jpg&name=4096x4096#only-light){.no-zoom}
   </a>
 </figure>

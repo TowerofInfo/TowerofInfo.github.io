@@ -5,6 +5,8 @@ theme:
   name: material
   logo: /assets/Tower_of_Info.png
   favicon: /assets/favicon.png
+  # icon:
+  #   annotation: fontawesome/solid/circle-chevron-right
   features:
     - navigation.instant
     - navigation.tabs
@@ -20,7 +22,7 @@ theme:
       accent: pink
       toggle:
         icon: material/weather-night
-        name: Switch to dark mode
+        name: Cambiar a modo oscuro
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -28,7 +30,7 @@ theme:
       accent: cyan
       toggle:
         icon: material/weather-sunny
-        name: Switch to light mode
+        name: Cambiar a modo claro
 
 nav:
   - Inicio: index.md

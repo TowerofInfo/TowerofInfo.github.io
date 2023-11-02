@@ -46,7 +46,7 @@ hide:
 
 ???+ example "Efectos"
 
-    ![Dragón Azur](/images/weapons/Azure_Dragon.webp){ #arma-imagen width="300", align=right}
+    ![Dragón Azur](/images/weapons/Azure_Dragon.webp){ #arma width="300", align=right}
 
     !Pasivas
 
@@ -97,7 +97,7 @@ hide:
 
 ???+ Info "Lore"
 
-    !Lore
+    Madame Huang, líder de los Guardias Azures, es la dirigente del Pabellón Tianzhang en Truenovilla. Excéntrica y meticulosa, ejerce un poder absoluto y actúa a su antojo. Ha hecho de la venganza contra toda forma de injusticia la misión de su vida, llegando incluso a inscribir este principio en el código del Pabellón Tianzhang. "Pero... no tenemos ningún código de conducta, ¿verdad? No somos una banda ni nada parecido..." "Pues ahora sí, porque yo lo digo. ¿Tienes algún problema con eso?" ¿Quién se atrevería a desafiarla? La sola mención del nombre "Huang" basta para silenciar cualquier discrepancia. Este es precisamente el tipo de poder que buscaba cuando cambió de nombre. Al fin y al cabo, ¿quién habría imaginado que antes de adoptar este título de comandante, Madame Huang era conocida simplemente como "Mimi"? Antes era una joven sin preocupaciones que vivía lo mejor que podía. Pero, tras la misteriosa desaparición del anterior líder del Pabellón, se encontró en el ojo de un huracán de conflictos internos y amenazas externas. Sin embargo, se transformó y abandonó su antigua ingenuidad. Con rapidez y decisión, tomó el control y rechazó a los oportunistas dispuestos a aprovechar el momento de vulnerabilidad del pabellón. Solo su fuerza mantenía en funcionamiento esa enorme organización. Sin embargo, lo que es demasiado rígido se rompe fácilmente. Huang, conocida por su planteamiento jerárquico, tiene todo el poder. Pero al avanzar, se encuentra en un camino solitario y sin apoyos. A pesar de todo, Huang parece imperturbable. Como un cachorro solitario, solo cuando llega la tranquilidad que trae noche esconde sus garras y acaricia suavemente al Dragón Azur, su única compañía. "El Pabellón Tianzhang mantiene la resistencia del Dominio 9 contra la Oscuridad... Pase lo que pase, el Pabellón Tianzhang no debe caer, y yo tampoco". En las serenas profundidades de los bosques de bambú, una brisa suave susurra entre las copas de los árboles. La luz de la luna en Truenovilla sigue siendo tan clara y hermosa como siempre.
 
 ## **Equipos Recomendados**
 

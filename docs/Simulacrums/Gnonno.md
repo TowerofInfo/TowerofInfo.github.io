@@ -49,7 +49,7 @@ hide:
 
 ???+ example "Efectos"
 
-    ![Minihuracán](/images/weapons/Mini_Hurricane.webp){ #arma-imagen width="300", align=right}
+    ![Minihuracán](/images/weapons/Mini_Hurricane.webp){ #arma width="300", align=right}
 
     !Pasivas
 
@@ -100,7 +100,7 @@ hide:
 
 ???+ Info "Lore"
 
-    !Lore
+    Gnonno está muy orgullosa de su abuelo, Nuok, quien formó parte del equipo de exploración que descubrió Innars, y quiere convertirse en una excelente exploradora como él. Pero, teniendo en cuenta su actitud de los últimos días, Gnonno es más bien una niña revoltosa, por decirlo de manera sutil.
 
 ## **Equipos Recomendados**
 

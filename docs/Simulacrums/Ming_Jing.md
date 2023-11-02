@@ -49,7 +49,7 @@ hide:
 
 ???+ example "Efectos"
 
-    ![Tortuga de Ónix](/images/weapons/Onyx_Tortoise.webp){ #arma-imagen width="300", align=right}
+    ![Tortuga de Ónix](/images/weapons/Onyx_Tortoise.webp){ #arma width="300", align=right}
 
     !Pasivas
 
@@ -100,7 +100,7 @@ hide:
 
 ???+ Info "Lore"
 
-    !Lore
+    Un visitante desconocido del exterior. Su apariencia es tanto una variable impredecible como un punto de inflexión para el aislado Dominio 9. Aceptaron a este hombre sin pasado, y el Maestro Yue, el anterior Xuanwu, decidió mantener a Ming Jing a su lado y entrenarlo. Hizo todo lo posible para absorber la cultura, los paisajes, las batallas y las luchas de poder... Encontró muchos obstáculos, pero nunca vaciló y siguió adelante para devolver la bondad que recibió con acciones.
 
 ## **Equipos Recomendados**
 

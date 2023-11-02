@@ -49,7 +49,7 @@ hide:
 
 ???+ example "Efectos"
 
-    ![Ave Bermellón](/images/weapons/Vermilion_Bird.webp){ #arma-imagen width="300", align=right}
+    ![Ave Bermellón](/images/weapons/Vermilion_Bird.webp){ #arma width="300", align=right}
 
     !Pasivas
 
@@ -100,7 +100,7 @@ hide:
 
 ???+ Info "Lore"
 
-    !Lore
+    Surgió de un paso dimensional desconocido, afirmando ser del Dominio 9, una región no registrada en la base de datos de Hykros, y que deseaba ayudar con el problema de las Entidades del Espacio Gris. Su apariencia ingenua y jovial hace que sea sencillo acercarse a ella y entablar una amistad.
 
 ## **Equipos Recomendados**
 
@@ -115,7 +115,7 @@ hide:
       "url": ""
     },
     {
-      "title": "Brzalete Lunaestrella",
+      "title": "Brazalete Lunaestrella",
       "image": "/images/weapons/Moonstar_Bracelet.webp",
       "url": ""
     }, 
@@ -144,8 +144,8 @@ hide:
       "url": ""
     },
     {
-      "title": "Brazalete Lunaestrella",
-      "image": "/images/weapons/Moonstar_Bracelet.webp",
+      "title": "Floración Interminable",
+      "image": "/images/weapons/Endless_Bloom.webp",
       "url": ""
     }
 ]
