@@ -21,7 +21,7 @@ theme:
       primary: white
       accent: pink
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Cambiar a modo oscuro
 
     - media: "(prefers-color-scheme: dark)"
@@ -29,7 +29,7 @@ theme:
       primary: black
       accent: cyan
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Cambiar a modo claro
 
 nav:

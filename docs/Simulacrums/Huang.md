@@ -103,51 +103,259 @@ hide:
 
 ### Meta
 
-::cards:: cols=3
+!!! quote ""
+    !!! example inline ""
+        <figure markdown>
+        <a href="#arma">![Image title](/images/weapons/Azure_Dragon.webp){ width="250" }</a>
+        </figure>
 
-[
- {
-      "title": "Dragón Azur",
-      "image": "/images/weapons/Azure_Dragon.webp",
-      "url": ""
-    },
-    {
-      "title": "",
-      "image": "/images/weapons/!Meta2.webp",
-      "url": ""
-    }, 
-    {
-      "title": "",
-      "image": "/images/weapons/!Meta3.webp",
-      "url": ""
-    }
-]
+        <font size="3">**Dragón Azur**</font>(1)
+        { .annotate }
 
-::/cards::
+        1. 
+            ### **Set de Matrices Recomendadas**
 
-### Triple 
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Huang.webp){ width="200" }|![Image title](/images/matrix/Huang.webp){ width="200" }|
+                    |![Image title](/images/matrix/Huang.webp){ width="200" }|![Image title](/images/matrix/Huang.webp){ width="200" }|
 
-::cards:: cols=3
+            === "Delfin"
+            
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Samir.webp){ width="200" }|![Image title](/images/matrix/Samir.webp){ width="200" }|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
 
-[
- {
-      "title": "Dragón Azur",
-      "image": "/images/weapons/Azure_Dragon.webp",
-      "url": ""
-    },
-    {
-      "title": "",
-      "image": "/images/weapons/!Triple2.webp",
-      "url": ""
-    },
-    {
-      "title": "",
-      "image": "/images/weapons/!Triple3.webp",
-      "url": ""
-    }
-]
+                    !!! note "Nota"
+                        En caso de utilizar el set de 4 de Scylla en otra arma, sustituir por Shiro x2 o Crow x2
 
-::/cards::
+            === "F2P"
+            
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Samir.webp){ width="200" }|![Image title](/images/matrix/Samir.webp){ width="200" }|
+                    |![Image title](/images/matrix/Shiro.webp){ width="200" }|![Image title](/images/matrix/Shiro.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        En caso de contar con 60% de critico o más, se puede sustituir el set de Shiro por Crow
+   
+    !!! example inline ""
+
+        <figure markdown>
+        <a href="/Simulacrums/Rubilia/#arma">![Image title](/images/weapons/Lost_Art.webp){ width="250" }</a>
+        </figure>
+
+        <font size="3">**Arte Perdido**</font>(1)
+        { .annotate }
+
+        2. 
+            ### **Set de Matrices Recomendadas**
+
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Rubilia.webp){ width="200" }|![Image title](/images/matrix/Rubilia.webp){ width="200" }|
+                    |![Image title](/images/matrix/Rubilia.webp){ width="200" }|![Image title](/images/matrix/Rubilia.webp){ width="200" }|
+
+            === "Delfin"
+            
+                !!! abstract "0-2 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Rubilia.webp){ width="200" }|![Image title](/images/matrix/Rubilia.webp){ width="200" }|
+                    |![Image title](/images/matrix/Rubilia.webp){ width="200" }|![Image title](/images/matrix/Rubilia.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Tian Lang x4 o Scylla/Haboela x4 en caso de contar con al menos 2 :material-star:
+
+            === "F2P"
+            
+                !!! abstract "0-3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Tian Lang x4 o Haboela x4
+
+    !!! tip inline ""
+
+        <figure markdown>
+        <a href="/Simulacrums/Fiona/#arma">![Image title](/images/weapons/Moonstar_Bracelet.webp){ width="250" }</a>
+        </figure>
+
+        <font size="3">**Brazalete Lunaestrella**</font>(1)
+        { .annotate }
+
+        3. 
+            ### **Set de Matrices Recomendadas**
+
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Fiona.webp){ width="200" }|![Image title](/images/matrix/Fiona.webp){ width="200" }|
+                    |![Image title](/images/matrix/Fiona.webp){ width="200" }|![Image title](/images/matrix/Fiona.webp){ width="200" }|
+
+            === "Delfin"
+            
+                !!! abstract "0-2 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Fiona.webp){ width="200" }|![Image title](/images/matrix/Fiona.webp){ width="200" }|
+                    |![Image title](/images/matrix/Fiona.webp){ width="200" }|![Image title](/images/matrix/Fiona.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Tian Lang x4 o Scylla/Haboela x4
+
+            === "F2P"
+            
+                !!! abstract "0-3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Tian_Lang.webp){ width="200" }|![Image title](/images/matrix/Tian_Lang.webp){ width="200" }|
+                    |![Image title](/images/matrix/Tian_Lang.webp){ width="200" }|![Image title](/images/matrix/Tian_Lang.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Scylla x4 o Haboela x4
+
+### Triple Electro
+
+!!! quote ""
+    !!! example inline ""
+        <figure markdown>
+        <a href="#arma">![Image title](/images/weapons/Azure_Dragon.webp){ width="250" }</a>
+        </figure>
+
+        <font size="3">**Dragón Azur**</font>(1)
+        { .annotate }
+
+        1. 
+            ### **Set de Matrices Recomendadas**
+
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Huang.webp){ width="200" }|![Image title](/images/matrix/Huang.webp){ width="200" }|
+                    |![Image title](/images/matrix/Huang.webp){ width="200" }|![Image title](/images/matrix/Huang.webp){ width="200" }|
+
+            === "Delfin"
+            
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Samir.webp){ width="200" }|![Image title](/images/matrix/Samir.webp){ width="200" }|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        En caso de utilizar el set de 4 de Scylla en otra arma, sustituir por Shiro x2 o Crow x2
+
+            === "F2P"
+            
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Samir.webp){ width="200" }|![Image title](/images/matrix/Samir.webp){ width="200" }|
+                    |![Image title](/images/matrix/Shiro.webp){ width="200" }|![Image title](/images/matrix/Shiro.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        En caso de contar con 60% de critico o más, se puede sustituir el set de Shiro por Crow
+   
+    !!! example inline ""
+
+        <figure markdown>
+        <a href="/Simulacrums/Rubilia/#arma">![Image title](/images/weapons/Lost_Art.webp){ width="250" }</a>
+        </figure>
+
+        <font size="3">**Arte Perdido**</font>(1)
+        { .annotate }
+
+        2. 
+            ### **Set de Matrices Recomendadas**
+
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Rubilia.webp){ width="200" }|![Image title](/images/matrix/Rubilia.webp){ width="200" }|
+                    |![Image title](/images/matrix/Rubilia.webp){ width="200" }|![Image title](/images/matrix/Rubilia.webp){ width="200" }|
+
+            === "Delfin"
+            
+                !!! abstract "0-2 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Rubilia.webp){ width="200" }|![Image title](/images/matrix/Rubilia.webp){ width="200" }|
+                    |![Image title](/images/matrix/Rubilia.webp){ width="200" }|![Image title](/images/matrix/Rubilia.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Tian Lang x4 o Scylla/Haboela x4 en caso de contar con al menos 2 :material-star:
+
+            === "F2P"
+            
+                !!! abstract "0-3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Tian_Lang.webp){ width="200" }|![Image title](/images/matrix/Tian_Lang.webp){ width="200" }|
+                    |![Image title](/images/matrix/Tian_Lang.webp){ width="200" }|![Image title](/images/matrix/Tian_Lang.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Saki x4 o Haboela x4
+
+    !!! example inline ""
+
+        <figure markdown>
+        <a href="/Simulacrums/Icarus/#arma">![Image title](/images/weapons/Gleipnir.webp){ width="250" }</a>
+        </figure>
+
+        <font size="3">**Gleipnir**</font>(1)
+        { .annotate }
+
+        3. 
+            ### **Set de Matrices Recomendadas**
+
+            === "Ballena"
+    
+                !!! abstract "3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Fenrir.webp){ width="200" }|![Image title](/images/matrix/Fenrir.webp){ width="200" }|
+                    |![Image title](/images/matrix/Fenrir.webp){ width="200" }|![Image title](/images/matrix/Fenrir.webp){ width="200" }|
+
+            === "Delfin"
+            
+                !!! abstract "0-2 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Fenrir.webp){ width="200" }|![Image title](/images/matrix/Fenrir.webp){ width="200" }|
+                    |![Image title](/images/matrix/Fenrir.webp){ width="200" }|![Image title](/images/matrix/Fenrir.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Saki x4 o Scylla/Haboela x4
+
+            === "F2P"
+            
+                !!! abstract "0-3 :material-star:"
+                    |||
+                    | :------------------------------: |:-:|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
+                    |![Image title](/images/matrix/Scylla.webp){ width="200" }|![Image title](/images/matrix/Scylla.webp){ width="200" }|
+
+                    !!! note "Nota"
+                        Se puede sustituir por el set de Tian Lang x4 o Haboela x4
 
 !!! note "Equipos adicionales"
     Para ver más opciones revisa [esta guía](https://www.youtube.com/watch?v=hEZ-ja5eoKA) hecha por [MrSnakeVT](https://linktr.ee/MrsnakeVT). :heart_hands_tone3:
