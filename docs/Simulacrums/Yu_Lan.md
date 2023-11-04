@@ -19,11 +19,15 @@ hide:
 
     ===! ":heart: 1200"
         !!! quote ""
-            !Rasgo1
+            Aumenta el daño final un 13%.
+            Mientras estés en forma de Artista Marcial, aumenta el daño final un 7%.
+            En la forma de Fuerza Arrolladora, por cada arma de escarcha equipada, aumenta el daño infligido al consumir Espíritu de Pelea un 9%. Al equipar 3 armas de escarcha, aumenta el daño de escarcha un 8%.
 
     === ":heart: 4000"
         !!! quote ""
-            !Rasgo2
+            Aumenta el daño final un 18%.
+            Mientras estés en forma de Artista Marcial, aumenta el daño final un 7%.
+            En Ia forma de Fuerza Arrolladora, por cada arma de escarcha equipada, aumenta el daño infligido al consumir Espíritu de Pelea un 9%. Al equipar 3 armas de escarcha, aumenta el daño de escarcha un 8%.
     
     <div style="display: block; margin: auto">
         ![Regalo](/images/gifts/Domain9/Icon_Gift_Agarwood_Fan.webp){ .no-zoom width="70" }
@@ -71,30 +75,154 @@ hide:
 ### Habilidades
 
 === "ATQ Normal"
-    !!! example ""
+    ???+ example "Puño Demoledor"
 
-        uwu
+        Mientras estás en el suelo, usa el ataque normal para lanzar 6 ataques consecutivos.
+        Primer ataque: Inflige daño igual a 64,8% del ATQ más 3 y hace retroceder al objetivo.
+        Segundo ataque: Inflige daño igual a 50,4% del ATQ más 3 y hace retroceder al objetivo.
+        Tercer ataque: Inflige daño igual a 52,8% del ATQ más 3 y hace retroceder al objetivo.
+        Cuarto ataque: Inflige daño igual a 143,9% del ATQ más 8 y hace retroceder al objetivo.
+        Quinto ataque: Inflige daño igual a 279,2% del ATQ más 15 y hace retroceder al objetivo continuamente.
+        Sexto ataque: Inflige un daño igual a 227,4% del ATQ más 12 y lanza al objetivo.
 
-=== "Evasion"
-    !!! example ""
+        Puñetazo Pulverizador se puede usar en la forma de Artista Marcial o de Fuerza Arrolladora.
+        Después de usar cualquier ataque de evasión mientras estás en forma de Artista Marcial, usa el ataque normal para activar rápidamente el cuarto ataque.
+        Tras impactar con el quinto ataque mientras estás en forma de Artista Marcial, congelas con fuerza al objetivo por 2 seg (no disponible en la Liga Apex y contra jefes); y además, causa Malaescarcha, lo que inflige daño igual a 280% del ATQ más 15 cada segundo por 8 seg. Este efecto solo se puede activar sobre el mismo objetivo 1 vez cada 8 seg.
 
-        uwu
+    ???+ example "Puño Flotante"
+
+        Mientras estás en el aire, usa el ataque normal para lanzar 6 ataques consecutivos; esto consume resistencia.
+        Primer ataque: Inflige daño igual a 68,4% del ATQ más 4.
+        Segundo ataque: Inflige daño igual a 59,9% del ATQ más 3.
+        Tercer ataque: Inflige daño igual a 62,7% del ATQ más 3.
+        Cuarto ataque: Inflige daño igual a 136,4% del ATQ más 7.
+        Quinto ataque: Inflige daño igual a 249% del ATQ más 13.
+        Sexto ataque: Inflige daño igual a 222,3% del ATQ más 12.
+        
+        Puedes usar Puño Flotante en forma de Artista Marcial o de Fuerza Arrolladora.
+
+    ???+ example "Golondrina Perforante"
+
+        Golondrina Perforante solo se puede usar en forma de Artista Marcial.
+        Mientras estás en el suelo, pulsay mantén pulsado el ataque normal al usar del primer al tercer ataques normales para activar Golondrina Perforante.
+        Inflige daño igual a 62,8% del ATQ más 3 y atrae a los objetivos cercanos. Entonces, inflige daño igual a 146,6% del ATQ más 8 y repele a los objetivos.
+        
+        Después de usar Cometa Aérea, usar el ataque normal también puede activar Golondrina Perforante.
+
+    ???+ example "Serpiente Danzante"
+
+        Serpiente Danzante solo se puede usar en forma de Artista Marcial.
+        En el suelo, pulsa y mantén pulsado el ataque normal cuando uses los ataques normales del cuarto al quinto para activar Serpiente Danzante.
+        Inflige daño igual a 75,4% del ATQ más 4 a los objetivos cercanos y los suspende.
+        Después de usar Golondrina Perforante, pulsa y mantén pulsado el ataque normal para activar Serpiente Danzante.
+
+    ???+ example "Escarcha Ascendente"
+
+        Mientras estás en el aire, pulsa y mantén pulsado el ataque normal cuando uses del primero al sexto ataques normales para activar Escarcha Ascendente.
+        Lanza tu arma en el aire, lo que inflige daño igual a 329% del ATQ más 17 a los objetivos cercanos.
+
+        Escarcha Ascendente se puede usar en forma de Artista Marcial o de Fuerza Arrolladora.
+
+    ???+ example "Cometa Aérea"
+
+        Pulsa y mantén pulsado el ataque normal mientras estás en el aire (pulsa cuando haya un objetivo disponible), o utiliza el ataque normal mientras escalas, saltas hacia atrás o utilizas el propulsor para activar Cometa Aérea.
+        Caes desde lo alto, lo que inflige daño igual a 148,6% del ATQ más 8 a los objetivos cercanos al llegar al suelo y los derribas.
+        Cometa Aérea se puede usar en forma de Artista Marcial o de Fuerza Arrolladora.
+
+    ???+ example "Regreso Total"
+
+        Cuando estés en el suelo, pulsa y mantén pulsado el ataque normal para activar Regreso Total.
+        Atrae continuamente a los objetivos cercanos mientras consume tu resistencia, durante lo cual el nómada obtiene hipercuerpo.
+        Regreso Total se puede usar en forma de Artista Marcial o de Fuerza Arrolladora.
+
+=== "Evasión"
+    ???+ example "Evasión"
+
+        ![Evasión](/images/weapons/skills/dodge.webp#only-dark){width="80" align=left}
+        ![Evasión](/images/weapons/skills/dodge.png#only-light){width="80" align=left}
+
+        Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.
+
+        Se puede usar en forma de Artista Marcial o Fuerza Arrolladora.
+        Después de evadir mientras estás en la forma Artista Marcial, obtienes hipercuerpo durante 5 seg.
+
+    ???+ example "Hazaña Imposible"
+
+        Usa tu ataque normal durante el breve periodo tras evadir para activar Hazaña Imposible, lo que inflige daño igual a 177,6% del ATQ más 9 a los objetivos cercanos.
+
+        Hazaña Imposible se puede usar en las formas de Artista Marcial o Fuerza Arrolladora.
+
+    ???+ example "Nubes Arrasadoras"
+
+        Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Nubes Arrasadoras, lo que inflige daño igual a 167,6% del ATQ más 9 a los objetivos cercanos.
+
+        Nubes Arrasadoras se puede usar en las formas de Artista Marcial o Fuerza Arrolladora.
 
 === "Habilidad"
-    !!! example ""
+    ???+ example "Ataque y Defensa"
 
-        uwu
+        Unidad tiene 2 formas: Artista Marcial y Fuerza Arrolladora.
+        Activa 1 de ellas a través de la página Habilidades - Opciones.
+        No se pueden cambiar mientras estás en estado de combate.
 
-===+ "Descarga"
-    !!! example ""
+        Forma deArtista Marcial: Mientras estás en estado de combate, el multiplicador de ataque de evasión/ataque normal de Unidad aumenta un 40% adicional. Después de usar el ataque de evasión o el ataque normal de cualquier arma 3 veces, recibes 1 de Fuerza Interna (hasta 10). Solo puedes obtener 1 de Fuerza Interna cada 2 seg. Mientras no estés en estado de combate, perderás toda la Fuerza Interna.
+        Forma de Fuerza Arrolladora: Después de impactar con Observa y Reacciona, entras en estado de Anticipación y recibes 1 de Espíritu de Pelea cada 0.8 seg (hasta 15) durante 60 seg. Mientras no estés en estado de combate, perderás todo el Espíritu de Pelea.
+        Pasiva: Escalofrío
+        Al tener Unidad equipada, ignoras 15% de la resistencia a la escarcha de los objetivos. Este efecto también funciona en la ranura secundaria.
+
+    ???+ example "Impacto Certero"
+
+        Inflige daño igual a 982,8% del ATQ más 52 al objetivo.
+        Enfriamiento: 15 seg.
+        Al usar Impacto Certero, Unidad consumirá hasta 5 de Fuerza Interna. Al consumir 1/2/3/4/5 de Fuerza Interna, Impacto Certero infligirá 1.1/1.4/1.8/2.3/3 veces su daño original respectivamente.
+        Después de usar Impacto Certero, aumenta tu daño de escarcha un 12% durante 30 seg.
+        Después de usar Impacto Certero, recuperas 2 intentos de evasión.
+
+        Solo puedes usar Impacto Certero mientras estás en la forma de Artista Marcial.
+        Cuando Fuerza Interna llega a 5, el enfriamiento de Impacto Certero se restablece.
+
+    ???+ example "Choque de Armas"
+
+        Inflige daño igual a 982,8% del ATQ más 52 al objetivo.
+        Enfriamiento: 15 seg.
+        Mientras estés en el estado de Anticipación, al usar cualquier habilidad de arma, Unidad consumirá hasta 5 de Espíritu de Pelea. Cuando consume 1/2/3/4/5 de Espíritu de Pelea, inflige daño adicional a los enemigos cercanos igual a 169%/ del ATQ, e inflige daño igual a 260% del ATQ más 14 cada segundo durante 5 seg.
+        Tras usar cualquier habilidad de arma de escarcha, obtienes 2 seg de hipercuerpo.
+
+        Choque de Armas solo se puede usar en la forma de Fuerza Arrolladora.
+
+=== "Descarga"
+    ???+ example ""
         ![Descarga](/images/weapons/skills/Yu_Lan/discharge.webp#only-dark){width="100" align=left}
         ![Descarga](/images/weapons/skills/Yu_Lan/discharge_light.png#only-light){width="100" align=left}
-        ### !Descarga
+    
+        Cuando la carga de arma está completa o se activa Phantasia, al cambiar a esta arma, elimina todas las desventajas del nómada, inflige daño igual a 1.173,1% del ATQ más 62 a todos los objetivos cercanos y los lanza fuerte.
+        Durante este periodo, obtienes inmunidad al daño durante 1.5 seg (no disponible en la Liga Ápex).
+        
+        Solo puedes usar Tigre Pisanieves mientras estás en forma de Artista Marcial.
+
+    ???+ example "Observa y Reacciona"
+
+        Cuando la carga de arma está completa o se activa Phantasia, al cambiar a esta arma, elimina todas las desventajas del nómada, inflige daño igual a 1.173,1% del ATQ más 62 a todos los objetivos cercanos y los lanza fuerte.
+        Durante este periodo, obtienes inmunidad al daño por 1.5 seg (no disponible en la Liga Ápex).
+        Después de que Observa y Reacciona logra un impacto, aumenta el daño de escarcha un 12% por 30 seg.
+        Después de que Observa y Reacciona logra un impacto, entras en estado de Anticipación por 60 seg.
+        Después de usar Unidad para usar una habilidad de descarga, recibes 1.000 de carga de arma. Este efecto solo se puede activar 1 vez cada 10 seg.
+
+        Observa y Reacciona solo se puede usar mientras estás en la forma de Fuerza Arrolladora.
 
 === ":octicons-gear-16: Especial"
-    !!! example ""
+    ???+ example "Forma de Artista Marcial"
 
-        uwu
+        Combatiente valiente y diligente. Potencia las habilidades de Unidad mientras está en la ranura principal. Cambia la habilidad a Impacto Certero y la descarga a Tigre Pisanieves, y tiene un potente ataque normal y daño de habilidad.
+
+    ???+ example "Forma de Fuerza Arrolladora"
+
+        Ataques arrolladores pero deliberados y veloces.
+        Potencia las habilidades de soporte de Unidad. Cambia la habilidad a Choque de Armas y la descarga a Observa y Reacciona; también obtienes el poderoso estado de AnticipaciÓn.
+
+    !!! note "Nota"
+
+        Puedes seleccionar una de las dos ramas de habilidades para activar su efecto.
 
 ## **Lore**
 

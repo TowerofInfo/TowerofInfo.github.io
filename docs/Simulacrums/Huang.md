@@ -68,30 +68,80 @@ hide:
 ### Habilidades
 
 === "ATQ Normal"
-    !!! example ""
+    ???+ example "Perlas y Jades"
 
-        uwu
+        Mientras estás en el suelo, usa tu ataque normal para atacar 5 veces seguidas.
+        Primer ataque: Inflige daño igual a 91,1% del ATQ más 5.
+        Segundo ataque: Inflige daño igual a 137,6% del ATQ más 7.
+        Tercer ataque: Inflige daño igual a 400% del ATQ más 21.
+        Cuarto ataque: Inflige daño igual a 331,7% del ATQ más 17.
+        Quinto ataque: Inflige daño igual a 165,3% del ATQ más 9.
 
-=== "Evasion"
-    !!! example ""
+    ???+ example "Vistas Magníficas"
 
-        uwu
+        Mientras estás en el aire, usa tu ataque normal para lanzar 5 ataques seguidos en el aire; esto consume resistencia.
+        Primer ataque: Inflige daño igual a 92,6% del ATQ más 5.
+        Segundo ataque: Inflige daño igual a 150,5% del ATQ más 8.
+        Tercer ataque: Inflige daño igual a 413,3% del ATQ más 22.
+        Cuarto ataque: Inflige daño igual a 284,6% del ATQ más 15.
+        Quinto ataque: Inflige daño igual a 184,6% del ATQ más 10.
+
+    ???+ example "Helioperforación de Dragón Azur"
+
+        Mientras estás en el suelo, pulsay mantén pulsado el ataque normal cuando uses del primero al cuarto ataque normal para activar Helioperforación de Dragón Azur y consumir resistencia.
+        Lanza un ataque por delante, lo que inflige daño igual a 329,7% del ATQ más 17 a los objetivos cercanos y los suspende.
+        Después de activar Helioperforación de Dragón Azur, pulsa y mantén pulsado el ataque normal para activar Rayorráfaga.
+
+    ???+ example "Rayorráfaga"
+
+        Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal para activar Rayorráfaga.
+        Dispara continuamente rayos a los objetivos; durante esto, tu resistencia se consume y ganas hipercuerpo. Cada ataque inflige daño igual a 53,5% del ATQ más 3 a los objetivos cercanos. Al mismo tiempo, invoca a 1 Azura cada 1.5 seg que dispara ondas de choque; esto inflige daño igual a 99% del ATQ más 5 a los objetivos cercanos.
+        Obtienes un escudo igual al 10% de tus PS Máx. cada 1.5 seg; se acumula hasta un 15% y dura 15 seg desde la creación del primer escudo.
+        Después de activar Resonancia de Fortaleza: Cada vez que la onda de choque de Rayorráfaga logra un impacto, provocas a los objetivos cercanos durante 2 seg.
+        Cada vez que Rayorráfaga produzca un escudo, los aliados cercanos recibirán además un escudo de hasta un 10% de tus PS Máx.
+
+    ???+ example "Dragón Errante"
+
+        Mientras estás en el aire, pulsay mantén pulsado el ataque normal cuando uses del primero al cuarto ataque normal para activar Dragón Errante y consumir resistencia.
+        Lanza un ataque por delante, lo que inflige daño igual a 329,7% del ATQ más 17 a los objetivos cercanos y los suspende.
+
+    ???+ example "Poderío de Qinglong"
+
+        Cada 3 ataques normales realizados mientras usas Dragón Azur otorga 1 acumulación de Poderío de Qinglong; se acumula hasta 8 veces durante 30 seg.
+        Después de activar Resonancia de Fortaleza:
+        Cada acumulación de Poderío de Qinglong reduce el daño que el nómada recibe en 1.5%.
+
+=== "Evasión"
+    ???+ example "Evasión"
+
+        ![Evasión](/images/weapons/skills/dodge.webp#only-dark){width="80" align=left}
+        ![Evasión](/images/weapons/skills/dodge.png#only-light){width="80" align=left}
+
+        Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.
+        Pasiva: Lanza una esfera eléctrica hacia delante.
+
+    ???+ example "Destello Eléctrico"
+        
+        Usa tu ataque normal durante el breve periodo tras evadir para activar Destello Eléctrico.
+        Apareces instantáneamente en la ubicación de la esfera eléctrica, lo que inflige daño igual a 106,4% del ATQ más 6 a los objetivos cercanos y produce un pozo eléctrico; luego, vuelves a la ubicación original. El pozo eléctrico infligirá daño prolongado total igual a 149,5% del ATQ más 8 y atrae a los objetivos cercanos de forma continua.
+        Pasiva: durante Destello Eléctrico, el nómada recibe hipercuerpo. Después de que Destello Eléctrico logre un impacto, recibes 1 acumulación de Poderío de Qinglong.
+        Después de activar Destello Eléctrico, pulsa y mantén pulsado el ataque normal para activar Rayorráfaga.
 
 === "Habilidad"
-    !!! example ""
+    ???+ example "Luna Celeste"
 
-        uwu
+        Un Dragón Azur surca el cielo. Durante este tiempo, te otorga hipercuerpo e infliges daño igual a 1.777,5% del ATQ más 94 a los objetivos cercanos. El Dragón Azur dará vueltas durante 8 seg. Durante este tiempo, consumes continuamente Poderío de Qinglong e invocas hasta 8 rayos. Cada rayo inflige daño igual a 649,9% del ATQ más 34 a los objetivos cercanos, y cuando el Dragón Azur desaparece, inflige daño de nuevo igual a 1.485% del ATQ más 78 a los objetivos cercanos.
+        Enfriamiento: 30 seg y este enfriamiento no se puede bajar por debajo de los 20 seg. Luna Azur puede tener hasta 2 acumulaciones de usos de habilidad.
+        Pasiva: cuando 3 armas eléctricas están equipadas, después de que Luna Azur logra un impacto, infliges daño de habilidad igual a 250% del ATQ al objetivo cada 2 seg durante 30 seg.
 
-===+ "Descarga"
-    !!! example ""
+=== "Descarga"
+    ???+ example "Dragón Aéreo"
+
         ![Descarga](/images/weapons/skills/Huang/discharge.webp#only-dark){width="100" align=left}
         ![Descarga](/images/weapons/skills/Huang/discharge_light.png#only-light){width="100" align=left}
-        ### !Descarga
-
-=== ":octicons-gear-16: Especial"
-    !!! example ""
-
-        uwu
+        
+        Cuando la carga de arma está completa o se activa Phantasia, al cambiar a esta arma, elimina todas las desventajas del nómada y reúne chi. A continuación, aplasta el suelo, lo que provoca una explosión que inflige daño igual a 1.514,7% del ATQ más 80 a los objetivos cercanos y los suspende. Durante esto, obtienes inmunidad al daño durante 1.5 seg (no disponible en la Liga Ápex).
+        Pasiva: cuando se activa Phantasia, si Dragón Azur está equipado actualmente o si cambias a Dragón Azur desde otra arma, infliges daño igual a un 5000% del ATQ a los objetivos cercanos. Este daño no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán. Solo se puede activar hasta 1 vez por uso de Phantasia.
 
 ## **Lore**
 

@@ -81,7 +81,7 @@ hide:
 ### Habilidades
 
 === "ATQ Normal"
-    ???+ example "Arte de Espada: Corte Lunar"
+    ???+ example "**Arte de Espada: Corte Lunar**"
 
         Mientras estás en el suelo, usa tu ataque normal para lanzar 6 ataques seguidos.
         Primer ataque: Infliges daño igual a 97,8% del ATQ más 5 y haces retroceder al objetivo.
@@ -94,7 +94,7 @@ hide:
 
         Tras impactar a un objetivo con cualquiera de los ataques normales de Tigre de Alabastro, aplicas 1 acumulación de Grieta Cristalina al objetivo, lo que inflige daño de ataque normal igual a 48% del A TQ cada segundo durante 15 seg. Solo puedes aplicar 1 acumulación de Grieta Cristalina al mismo objetivo cada 4 seg, se acumula hasta 3 veces. Las acumulaciones desaparecerán una a una cuando termine el efecto.
 
-    ???+ example "Arte de Espada: Sollozo de Pureza"
+    ???+ example "**Arte de Espada: Sollozo de Pureza**"
         Mientras estás en el aire, usa el ataque normal para lanzar 6 ataques consecutivos; esto consume resistencia.
         Primer ataque: Inflige daño igual a 95,9% del ATQ más 5.
         Segundo ataque: Inflige daño igual a 100,7% del ATQ más 5.
@@ -103,35 +103,47 @@ hide:
         Quinto ataque: Inflige daño igual a 213,7% del ATQ más 11.
         Sexto ataque: Inflige daño igual a 256,9% del ATQ más 14.
 
-    ???+ example "Arte de Espada: Nieve Eterna"
+    ???+ example "**Arte de Espada: Nieve Eterna**"
         Mientras usas el ataque normal en el suelo, pulsa y mantén pulsado el ataque normal para activar Arte de Espada: Nieve Eterna.
         Usa el control mental para manipular la espada mientras consumes resistencia, durante lo cual el nómada gana hipercuerpo. Cada ataque inflige daño igual a 140,8% del A TQ más 7 a los objetivos cercanos.
         Cuando Arte de Espada: Nieve Eterna termina, liberas una poderosa aura de espada que inflige daño igual a 422,4% de tu ATQ más 22 a los objetivos cercanos.
 
-    ???+ example "Arte de Espada: Caída de Escarcha"
+    ???+ example "**Arte de Espada: Caída de Escarcha**"
+        Pulsa y mantén pulsado tu ataque normal en el aire (pulsa cuando haya un objetivo disponible), o utiliza tu ataque normal mientras escalas, saltas hacia atrás o utilizas tu propulsor para activar Arte de Espada: Caída de Escarcha. Mientras caes, infliges daño igual a 75% del A TQ más 4 cada vez que impactas al objetivo. Al aterrizar, infliges daño igual a 366,7% del ATQ más 19 a los objetivos cercanos.
 
-=== "Evasion"
-    ???+ example ""
+    ???+ example "**Pasos Ligeros**"
+        Mientras estás en el aire tras un salto doble, pulsa salto para activar Pasos Ligeros. Te desplazas brevemente hacia arriba antes de planear. Mientras estás en el aire, puedes usar Pasos Ligeros hasta 2 veces.
+        Mientras estás en tierra, Pasos Ligeros recupera 1 intento de uso cada 10 seg (al cambiar de área, cambiar arma o desequipar Tigre de Alabastro, se restablecerán los intentos de uso).
 
-        uwu
+=== "Evasión"
+    ???+ example "**Evasión**"
+
+        ![Evasión](/images/weapons/skills/dodge.webp#only-dark){width="80" align=left}
+        ![Evasión](/images/weapons/skills/dodge.png#only-light){width="80" align=left}
+
+        Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.
+
+    ???+ example "**Arte de Espada: Nublamiento**"
+        Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Arte de Espada: Nublamiento, lo que inflige daño de hasta 305% del A TQ más 16 a los objetivos impactados.
+
+    ???+ example "**Arte de Espada: Alma Mortal**"
+        Usa tu ataque normal durante el breve periodo tras evadir para activar Arte de Espada: Alma Mortal. Libera una ilusión del Tigre Blanco para infligir daño igual a 174,3% del ATQ más 9 a los objetivos que tengas delante.
 
 === "Habilidad"
-    ???+ example ""
+    ???+ example "Arte de Espada: Hielo Oscuro"
 
-        uwu
+        Infliges daño igual a del ATQ más 19 a los objetivos cercanos y los atraes. Luego, formas un Conjunto de Espadas para invocar una fuerte lluvia de espadas y congelar con fuerza a los objetivos (no disponible en la Liga Apex ni contra jefes) durante 4 seg. Enfriamiento: 30 seg. Después de usar Arte de Espada: Hielo Oscuro, emites un Aire frío que inflige daño igual a 68% del A TQ a los objetivos cercanos cada segundo y reduce la velocidad de los objetivos un 30% (no disponible en la Liga Ápex ni contra jefes).
+        Después de ejecutar completamente Arte de Espada: Hielo Oscuro creas una gran cantidad de Cuchillas de Hielo que disparan 1 cuchilla cada 7.5 seg al objetivo actualmente fijado; esto inflige daño igual a 360% de tu ATQ y le aplica Reducción de Temperatura al objetivo. Puede haber hasta 3 Cuchillas de Hielo creadas inicialmente, y todas las cuchillas se eliminarán si no estás en estado de combate.
+        Reducción de Temperatura: Infliges daño igual a 240% del ATQ cada 3 seg a los objetivos cercanos durante 12 seg.
 
 ===+ "Descarga"
-    ???+ example ""
+    ???+ example "Arte de Espada: Llamado Gélido"
         ![Descarga](/images/weapons/skills/Fei_Se/discharge.webp#only-dark){width="80" align=left}
         ![Descarga](/images/weapons/skills/Fei_Se/discharge_light.png#only-light){width="80" align=left}
 
-        Cuando la **carga de arma está completa** o se activa **Phantasia**, al cambiar a esta arma, **te disipa todas las debilitaciones** e inflinges daño igual a **1.090%** del ATQ más **57**. Durante este periodo, ganas inmunidad al daño por **1.5** seg (no disponible en la Liga Ápex).
-
-
-=== ":octicons-gear-16: Especial"
-    !!! example ""
-
-        uwu
+        
+        Cuando tu carga de arma está completa o se activa Phantasia, al cambiar a esta arma, te disipa todas las debilitaciones e invoca un Conjunto de Espadas a tu alrededor que envuelve el área en frío e inflige daño de hasta 844,5% de tu ATQ más 44 a los objetivos cercanos. Poco después, invocas a un Tigre Blanco para infligir daño igual a 1.971% del A TQ más 104, durante el cual la inmunidad al daño dura 1.5 seg (no disponible en la Liga Ápex).
+        Pasiva: Después de que Arte de Espada: Llamado Gélido logra un impacto, aumenta tu daño final un 8% durante 30 seg.
 
 ## **Lore**
 
