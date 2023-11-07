@@ -3,7 +3,7 @@ hide:
     - navigation
 ---
 
-![Pesca AFK](/images/guias/pesca_afk/banner.png){width="950"}
+![Pesca AFK](/images/guias/pesca_afk/banner.png)
 
 # **¡A pescar en Tower of Fantasy!**
 
