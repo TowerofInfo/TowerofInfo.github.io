@@ -9,8 +9,8 @@ hide:
 
 ## Pesca
 !!! tip ""
-    <a href="/Guías/Pesca_AFK/">![Pesca AFK](/images/guías/pesca/banner.png){loading=lazy}</a>
+    <a href="/Guias/Pesca_AFK/">![Pesca AFK](/images/guías/pesca/banner.png){loading=lazy}</a>
 
 ## Tameo y Crianza
 !!! tip ""
-    <a href="/Guías/Captura_Bestias/">![Tameo](/images/guías/captura/banner.png){loading=lazy}</a>
+    <a href="/Guias/Captura_Bestias/">![Tameo](/images/guías/captura/banner.png){loading=lazy}</a>
