@@ -152,7 +152,7 @@ Si estás en NA, los dos clanes recomendados son los de los creadores de conteni
 Una vez hayas realizado lo anterior, te recomendamos seguir con la historia introductoria para poder llegar a Vera. Al finalizarla, verás una cinemática que resume lo ocurrido en Aesperia, constando de misiones de historia secundarias que podrás completar en cualquier momento si deseas conocer más detalles sobre la historia. Posteriormente, se habilitará la historia principal que finalmente te llevará a la región de Vera.
 
 <figure markdown>
-![Lista de Regiones y Servidores](/images/guias/nuevos_nomadas/vera.png){width="950"}
+![Lista de Regiones y Servidores](/images/guias/nuevos_nomadas/rumbo_vera.png){width="950"}
 </figure>
 
 
