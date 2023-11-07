@@ -20,7 +20,7 @@ Los únicos requisitos son los siguientes:
 Una vez que tengas todos los requisitos, descomprime el archivo zip que contiene el bot de pesca y guárdalo en tu PC, por ejemplo, en el escritorio en una carpeta llamada "pesca" o con el nombre que prefieras. Abre el archivo ToF_Fishing_Bot.exe. Aparecerá un programa similar a este:
 
 <figure markdown>
-![Programa Pesca AFK](https://raw.githubusercontent.com/TowerofInfo/TowerofInfo.github.io/main/docs/images/guias/pesca_afk/bot_pesca.png)
+![Programa Pesca AFK](/images/guias/pesca_afk/bot_pesca.jpg)
 </figure>
 
 Con el bot ya abierto, dirígete a ToF. Busca un lugar para pescar dentro del juego. Es recomendable revisar la lista de peces y optar por pescar aquellos que tengan un alto valor para obtener la mayor cantidad de puntos de pesca posible.
@@ -28,13 +28,13 @@ Con el bot ya abierto, dirígete a ToF. Busca un lugar para pescar dentro del ju
 Por ejemplo, yo voy a pescar el **Pargo Verde**, ya que tiene el valor más alto en el horario en el que me encuentro.
 
 <figure markdown>
-![Lista valor Pesca](https://raw.githubusercontent.com/TowerofInfo/TowerofInfo.github.io/main/docs/images/guias/pesca_afk/lista_peces.png){width="950"}
+![Lista valor Pesca](/images/guias/pesca_afk/lista_pesca.png){width="950"}
 </figure>
 
 Una vez en el lugar, prepara el cebo y la caña. Haz clic en el botón de la caña para sacarla, y aparecerá la siguiente interfaz:
 
 <figure markdown>
-![Pesca AFK](https://raw.githubusercontent.com/TowerofInfo/TowerofInfo.github.io/main/docs/images/guias/pesca_afk/interfaz_1.png){width="950"}
+![Pesca AFK](/images/guias/pesca_afk/interfaz_1.jpg){width="950"}
 </figure>
 
 Posiciónate dentro del círculo de pesca y vuelve a hacer clic en el icono de la caña.
@@ -42,14 +42,14 @@ Posiciónate dentro del círculo de pesca y vuelve a hacer clic en el icono de l
 Cuando lo hagas, se activará la interfaz principal para la pesca, que se verá así:
 
 <figure markdown>
-![Pesca AFK](https://raw.githubusercontent.com/TowerofInfo/TowerofInfo.github.io/main/docs/images/guias/pesca_afk/interfaz_2.png){width="950"}
+![Pesca AFK](/images/guias/pesca_afk/interfaz_2.jpg){width="950"}
 </figure>
 
 En esta pantalla, configuraremos el bot para que reconozca la actividad y pueda seguir al pez para pescarlo. Tomaremos como ejemplo la imagen proporcionada por el [creador][example] en el [repositorio](https://github.com/mdnpascual/ToF-Fishing-Bot) del bot. Créditos a él por la imagén y la herramienta; ¡no olvides visitar el repositorio y darle una estrella si su programa te resulta útil!
 [example]: https://github.com/mdnpascual "mdnpascual"
 
 <figure markdown>
-![Programa Pesca AFK](https://raw.githubusercontent.com/TowerofInfo/TowerofInfo.github.io/main/docs/images/guias/pesca_afk/tut.png)
+![Programa Pesca AFK](/images/guias/pesca_afk/tut.jpg)
 </figure>
 
 Una vez configurado, haz clic en "start fishing", vuelve al juego, haz clic en el icono de la caña y regresa a la ventana del bot. A partir de este punto, el bot funcionará automáticamente hasta que te quedes sin cebos. A continuación, adjunto un demo que grabé.
