@@ -36,7 +36,7 @@ nav:
   - Inicio: index.md
   - Simulacrums: Simulacrums.md
   - Eventos: Eventos.md
-  - Guías: Guías.md
+  - Guías: Guias.md
   # - Versiones: Versiones.md
 
 markdown_extensions:
