@@ -5,7 +5,7 @@ hide:
 
 ![Nuevos jugadores](/images/guías/nuevos_nomadas/banner.png)
 
-#
+# **Tower of Fantasy: Guía para Nómadas**
 
 Bienvenido, nómada. Ya sea que seas nuevo en el juego o que regreses después de un tiempo, es posible que te sientas abrumado por la cantidad de contenido que te aguarda. No te preocupes, en esta guía te orientaremos sobre lo que consideramos crucial para sumergirte de la mejor manera en el juego, y unirte a los nómadas más experimentados.
 
