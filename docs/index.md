@@ -22,7 +22,7 @@ hide:
         <figure markdown>
           <a href="/Simulacrums/Nan_Yin">
           ![Nan Yin](/images/simulacrums/upcoming/Nan_Yin.png#only-dark)
-          ![Nan Yin](/images/simulacrums/upcoming/Nan_Yin_Light.png#only-light)
+          ![Nan Yin](/images/simulacrums/upcoming/Nan_Yin_light.png#only-light)
           </a>
         </figure>
     <figure markdown><p>&nbsp;&nbsp;&nbsp;&nbsp;</p></figure>
@@ -30,7 +30,7 @@ hide:
         <figure markdown>
           <a href="/Simulacrums/Yan_Miao">
           ![Nan Yin](/images/simulacrums/upcoming/Yan_Miao.png#only-dark)
-          ![Nan Yin](/images/simulacrums/upcoming/Yan_Miao_Light.png#only-light)
+          ![Nan Yin](/images/simulacrums/upcoming/Yan_Miao_light.png#only-light)
           </a>
         </figure>
     </figure>
