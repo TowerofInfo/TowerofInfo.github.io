@@ -3,7 +3,7 @@ hide:
     - navigation
 ---
 
-![Nuevos jugadores](/images/guias/nuevos_nomadas/banner.png){}
+![Nuevos jugadores](/images/guias/nuevos_nomadas/banner.png)
 
 # **Tower of Fantasy: Guía para Nómadas**
 
