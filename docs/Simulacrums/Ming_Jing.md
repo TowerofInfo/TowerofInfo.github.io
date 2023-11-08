@@ -41,11 +41,12 @@ hide:
 
     === "Set de 2"
         !!! quote ""
-            !set2
+            Aumenta el límite de integrantes de la Cadena de Serpiente a 5. Cuando se equipa al menos 1 arma física o de fuego, aumenta el ATQ físico y el ATQ de fuego un 14%/16%/18%/20%. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta.
 
     === "Set de 4"
         !!! quote ""
-            !set4    
+            Tras aplicar el efecto de mordida de serpiente, aumenta el A TQ físico y el A TQ de fuego un 9% durante 30 seg.
+            Esto también tiene efecto mientras está en la ranura secundaria. Mientras estás en estado de combate, aumenta el daño final un
 
 #
 
@@ -55,7 +56,25 @@ hide:
 
     ![Tortuga de Ónix](/images/weapons/Onyx_Tortoise.webp){ #arma width="300", align=right}
 
-    !Pasivas
+    ### **Grave**
+
+    Cuando el arma esté completamente cargada, el siguiente ataque dejará graves a los enemigos por 7 seg, lo que aumenta su daño recibido un 20% y les inflige daño igual a 137.000/0 del ATQ. Cuando juegues partidas en equipo, aumenta tu daño físico infligido contra objetivos graves un 20% adicional.
+    
+    La Tortuga de Onix es un arma física y siempre infligirá daño físico, pero también puede ocupar el lugar de un arma de fuego para activar Resonancia de Fuego.
+
+    ### **Resonacia Física**
+
+    Aumenta el ATQ físico un y la resistencia física un 25%. Se activa equipando 2 0 más armas físicas. Este efecto de set funciona en Ia ranura secundaria. No se puede acumular con otros efectos de Resonancia Física; Resonancia Física tiene prioridad.
+
+    ### **Resonacia de Fuego**
+
+    Aumenta el ATQ de fuego un **15%** y la resistencia al Fuego un **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.
+
+    ### **Destrucción de Escudo: Separación**
+
+    Después de usar Abismo Absoluto, cada segundo inflige daño igual a 70% del A TQ físico, más 1% de los PS Máx. del nómada, más 36% de lasuma de todos los tipos de resistencias del nómada, más 135% del crítico durante 30 seg a los objetivos impactados. El daño de varias Separaciones no se acumula, y el daño por destrucción de escudo cuenta como daño de habilidad. Si tienes 1 arma eléctrica/de fuego/de escarcha equipada, el daño de destrucción de escudo se multiplica por 1,3. Además, el daño de destrucción de escudo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.
+
+    
 
 ### Avances
 
@@ -65,12 +84,12 @@ hide:
 
     | Estrellas                | Efecto                               |
     | :----------------------: | :----------------------------------: |
-    | 1 :material-star:        | !1s |
+    | 1 :material-star:        | Cada vez que se aplica el estado grave, inflige daño devorador igual a 50% del A TQ al objetivo. Este efecto solo se puede activar 1 vez cada 0.5 seg. Cada vez que se aplica el rasgo Ignición del arma a un objetivo que no está grave, el objetivo se vuelve grave durante 7 seg. |
     | 2 :material-star:        | Aumenta el crecimiento de ATQ base del arma actual un **16%**. |
-    | 3 :material-star:        | !3s |
+    | 3 :material-star:        | Tras activar Vendaval Poderoso, convierte a los objetivos impactados en integrantes de la Cadena de Serpiente. |
     | 4 :material-star:        | Aumenta el crecimiento de ATQ base del arma actual un **32%**. |
-    | 5 :material-star:        | !5s |
-    | 6 :material-star:        | !6s |
+    | 5 :material-star:        | Después de usar Abismo Absoluto, reduce el daño que el nómada recibe un 10% (20% en el modo individual) por 30 seg. |
+    | 6 :material-star:        | Cuando hay 1 integrante en la Cadena de Serpiente, aumenta el índice de daño por conducción del daño a 50%. |
 
 ### Habilidades
 
@@ -153,7 +172,7 @@ hide:
         El tipo de elemento del daño por conducción es el daño original y no puede volver a conducirse. El daño por conducción total en 30 seg no será mayor a 2400 veces el ATQ máximo del nómada (ilimitado en partidas en equipo). El daño de Tajo Oscuro no se puede conducir.
         Después de usar Abismo Absoluto, el nómada también puede activar Vendaval Poderoso: Los integrantes de la Cadena de Serpiente infligen daño igual al número de veces que se ha infligido daño devorador multiplicado por 25% del ATQ a los objetivos cercanos (incluyendo al objetivo fijado), y luego, se reinicia el recuento de daño devorador.
 
-===+ "Descarga"
+=== "Descarga"
     ???+ example "Sendero de Regreso"
         ![Descarga](/images/weapons/skills/Ming_Jing/discharge.webp#only-dark){width="100" align=left}
         ![Descarga](/images/weapons/skills/Ming_Jing/discharge_light.png#only-light){width="100" align=left}
